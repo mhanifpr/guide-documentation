@@ -1,3 +1,6 @@
+---
+sidebar-position: 1
+---
 # Overview Utopia-Game
 
 ![Homepage logo](/img/Homepage-utopia.jpeg)

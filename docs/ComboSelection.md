@@ -1,5 +1,5 @@
 ---
-sidebar-posisition: 3
+sidebar_posisition: 3
 ---
 # Combo Selection
 

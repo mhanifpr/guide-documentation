@@ -1,7 +1,7 @@
 
 ## Spell
-> Sihir membutuhkan Runes, Wizards, dan Guilds untuk dicasting. Tower menghasilkan Runes setiap tick, yang akan digunakan pada setiap casting sihir.
-----------
+ Sihir membutuhkan Runes, Wizards, dan Guilds untuk dicasting. Tower menghasilkan Runes setiap tick, yang akan digunakan pada setiap casting sihir.
+
 ### Determining Success
 
 :::caution Important
@@ -10,7 +10,7 @@
 :::info Info
 >Semakin tinggi WPA Anda dibandingkan dengan musuh, semakin baik keberhasilan sihir. Namun, selalu ada banyak peluang dalam setiap sihir. Selain itu, durasi semua sihir sangat dipengaruhi oleh persentase guild Anda.
 :::
--------------
+
 ### Duration of Spell
 
 ::: caution Affected by
@@ -19,7 +19,7 @@
 >- Networth relatif dari kedua provinsi.
 >-Hubungan saat ini antara kerajaan kedua provinsi tersebut.
 :::
------
+
 ### Self Spell
 
 :::info Self Spell

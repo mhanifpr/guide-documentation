@@ -7,8 +7,6 @@ Utopia adalah sebuah permainan daring (online) yang dirancang untuk dimainkan ol
 ## Basic Geography
 Utopia adalah dunia yang penuh dengan lautan luas yang dihiasi dengan banyak pulau, dan di setiap pulau tersebut terdapat beberapa Kerajaan. Setiap Kerajaan memiliki hingga 25 provinsi, dan salah satunya akan menjadi wilayah yang kamu pimpin. Bersama dengan seluruh Kerajaan lain, kamu akan berperan penting dalam peperangan, pertumbuhan, dan diplomasi. Kamu harus mengatur rakyat, pasukan, penyihir, dan pencuri - dan berusaha untuk menaklukkan dunia.
 
-test123
-
 ## Time 
 Di dunia Utopia, waktu berjalan jauh lebih cepat dibandingkan dengan waktu di Bumi. Satu jam di Bumi sama dengan satu hari Utopia, dan satu hari di Bumi sama dengan satu bulan Utopia. Ya, artinya ada 24 hari dalam satu bulan Utopia. Setiap tahun Utopia terdiri dari tujuh bulan. Kamu harus tahu bahwa penasihatmu tidak tahu tentang waktu di Bumi dan hanya akan berbicara dalam waktu Utopia.
 

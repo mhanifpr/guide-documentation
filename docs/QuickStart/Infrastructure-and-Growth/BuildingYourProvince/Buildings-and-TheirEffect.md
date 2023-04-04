@@ -56,9 +56,17 @@ Unless otherwise specified, these buildings have a maximum effect of 25 times th
 ### Buildings Formula
 
 :::tip Efisiensi pekerja terhadap bangunan yang dimiliki
->- `/Available Workers         =  Peasants + _ROUNDDOWN_ ( Prisoners / 2 )`
->- `/Optimal Workers           = _ROUNDDOWN_ ( Total Jobs * 0.67 )`
->- `/% Jobs Performed          =  _MIN_ ( Available Workers / Optimal Workers,1 )`
-> - `/[[buildings efficiency]]       =  (0.5 * (1 + % Jobs Performed)) * Race * Personality * Tools Science * Dragon * Blizzard`
+```
+/Available Workers =  Peasants + _ROUNDDOWN_ ( Prisoners / 2 )
+```
+```
+/Optimal Workers = _ROUNDDOWN_ ( Total Jobs * 0.67 )
+```
+```
+/% Jobs Performed =  _MIN_ ( Available Workers / Optimal Workers,1 )
+```
+```
+/buildings efficiency =  (0.5 * (1 + % Jobs Performed)) * Race * Personality * Tools Science * Dragon * Blizzard
+```
 :::
 

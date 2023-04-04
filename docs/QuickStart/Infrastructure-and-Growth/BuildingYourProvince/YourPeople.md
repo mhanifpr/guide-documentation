@@ -12,16 +12,22 @@ Sebagai pemimpin kami yang terhormat,  Anda harus  menemukan keseimbangan yang t
 
 :::tip Total Population
 
->`/Raw [[Living Space]] = ((Built Land + Land in progress) * 25) + ( Barren Land .  15) + ([[Homes]] * [[Homes]] Capacity) `
+```
+/Raw [[Living Space]] = ((Built Land + Land in progress) * 25) + ( Barren Land .  15) + ([[Homes]] * [[Homes]] Capacity) 
+```
 
->`/Mod [[Living Space]] = (((Raw Living Space - Homes Bonus) * Race Bonus) + Homes Bonus) * Population Science * Honor Population Bonus`
+```
+/Mod [[Living Space]] = (((Raw Living Space - Homes Bonus) * Race Bonus) + Homes Bonus) * Population Science * Honor Population Bonus
+```
 >
 >:::info Note
-> `Honor Bonuses are calculated as 1 + (Personality Mod * Honor Bonus)`
+> > `Honor Bonuses are calculated as 1 + (Personality Mod * Honor Bonus)`
 :::
 
 :::tip Current Population
-`/Current Population = [[Peasants]] + [[Soldiers]] + Off Specs + Off Specs in Training + Def Specs + Def Specs in Training + Elites + Elites in Training + Thieves + Thieves in Training + Wizards`
+```
+/Current Population = [[Peasants]] + [[Soldiers]] + Off Specs + Off Specs in Training + Def Specs + Def Specs in Training + Elites + Elites in Training + Thieves + Thieves in Training + Wizards
+```
 >:::info Note
->Prisoners do not add to the population
+> Prisoners do not add to the population
 :::

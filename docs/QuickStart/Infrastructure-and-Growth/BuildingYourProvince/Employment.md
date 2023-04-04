@@ -11,21 +11,31 @@ Jadi, dalam game Utopia, kita harus memastikan bahwa penduduk desa kita memiliki
 ## Formula
 
 :::tip Available Jobs
-`/Available Jobs = (Completed Buildings - Homes) * 25`
+```
+/Available Jobs = (Completed Buildings - Homes) * 25
+```
 :::
 
 :::tip Unfilled Jobs
-`/Unfilled Jobs =** _MAX_ ( Available Jobs - Peasants - _ROUNDDOWN_( Prisoners / 2 ) , 0 )`
+```
+/Unfilled Jobs = _MAX_ ( Available Jobs - Peasants - _ROUNDDOWN_( Prisoners / 2 ) , 0 )
+```
 :::
 
 :::tip Employed Peasants
-`/Employed Peasants =** _MIN_ ( Peasants - Available Jobs - _ROUNDDOWN_ ( Prisoners* / 2 ) )`
+```
+/Employed Peasants = _MIN_ ( Peasants - Available Jobs - _ROUNDDOWN_ ( Prisoners* / 2 ) )
+```
 :::
 
 :::tip Unemployed Peasants
-`/Unemployed Peasants = MIN(Peasants - Employed Peasants`
+```
+/Unemployed Peasants = MIN(Peasants - Employed Peasants
+```
 :::
 
 :::tip Employment Rate
-`/Employment Rate = (Employed Peasants / Peasants) * `
+```
+/Employment Rate = (Employed Peasants / Peasants) * 
+```
 :::

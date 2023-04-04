@@ -32,16 +32,20 @@ Setelah kita menemukan target yang tepat untuk diserang, kita perlu mendapatkan 
 :::
 
 
-:::tip [[Base Military Efficiency]]
+:::tip Base Military Efficiency (BME)
 ```
->/Base Military Efficiency = ( 33 + 67 * ( Effective Wage Rate / 100 ) 0.25 ) * Ruby Dragon * Multi-Attack Protection Bonus
+BME = ( 33 + 67 * ( Effective Wage Rate / 100 ) 0.25 ) * Ruby Dragon * Multi-Attack Protection Bonus
 ```
 :::
-:::tip [[Offensive Military Efficiency (OME)]]
->/OME = (Base Military Efficiency + Training Grounds Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Fanaticism * Bloodlust * Onslaught Ritual
+:::tip Offensive Military Efficiency (OME)
+```
+OME = (Base Military Efficiency + Training Grounds Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Fanaticism * Bloodlust * Onslaught Ritual
+```
 :::
-:::tip [[Defensive Military Efficiency (DME)]]
->/DME = (Base Military Efficiency + Forts Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Minor Protection * Greater Protection * Fanaticism * Plague * Barrier Ritual
+:::tip Defensive Military Efficiency (DME)
+```
+DME = (Base Military Efficiency + Forts Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Minor Protection * Greater Protection * Fanaticism * Plague * Barrier Ritual
+```
 :::
 
 Selain itu, pemain juga dapat menggunakan formula ini untuk memantau perubahan tingkat upah efektif, yang dapat mempengaruhi efisiensi militer dasar. Dengan memperhatikan perubahan tingkat upah, pemain dapat menyesuaikan strategi dan taktik serangan mereka agar tetap efektif dalam berbagai kondisi.

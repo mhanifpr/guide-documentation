@@ -67,7 +67,7 @@ const config = {
         apiKey: '5d1b15476b581a07a924f2bb8f822ed0',
         indexName: 'dev_docusaurus_guide',
         contextualSearch: true,
-        applicationId: 'MC92J8YZI7'
+        appId: 'MC92J8YZI7',
       },
       navbar: {
         title: 'Utopia',

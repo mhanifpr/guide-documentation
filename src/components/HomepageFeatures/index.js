@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Strategy',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Build, explore and research to increase your power. Then use armies, thieves
+        and powerful magic to combat your opponents and bring them to their knees.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Teamwork',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        In Utopia a good team is stronger than the sum of its parts. Complement the skills of 
+        your team mates to maximize your kingdom's glory.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Free and in your browser',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Utopia is free to play, no downloads are required and 
+        you don't need to be online all the time to succeed.
       </>
     ),
   },

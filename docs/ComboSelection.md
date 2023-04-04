@@ -18,11 +18,9 @@ Berikut adalah tipe - tipe para pemain :
 :::
 
 :::caution Warning
-	- Perlu disebutkan bahwa supermage dan superthief umumnya dianggap sebagai pilihan yang buruk Sementara bakat mereka masing-masing sering tak tertandingi, banyak pemain dan kerajaan percaya bahwa hanya fokus pada satu disiplin dari ketiganya, karena tidak ada kata yang lebih baik; malas. 
-	 
-	- Meskipun mencoba memainkan ketiga gaya umumnya tidak disarankan kecuali pemain sangat percaya diri dengan kemampuannya (walaupun percaya diri saja tidak cukup), hanya memainkan satu gaya seringkali tidak efisien meskipun dapat dilakukan dengan efek yang cukup mengejutkan jika pemain cukup berpengalaman. 
-	 
-	- Sebagai contoh, bahkan ras pencuri yang "murni" secara tradisional seperti Halfling memiliki kualitas yang menjadikannya pilihan yang berharga untuk menyerang. Penyerang murni umumnya tidak dilihat sebagai masalah, tetapi sering kali mungkin untuk mencoba-coba di tempat misterius atau di bawah tanah sambil mempertahankan pasukan yang mengesankan.
+>- Perlu disebutkan bahwa supermage dan superthief umumnya dianggap sebagai pilihan yang buruk Sementara bakat mereka masing-masing sering tak tertandingi, banyak pemain dan kerajaan percaya bahwa hanya fokus pada satu disiplin dari ketiganya, karena tidak ada kata yang lebih baik; malas. 
+>- Meskipun mencoba memainkan ketiga gaya umumnya tidak disarankan kecuali pemain sangat percaya diri dengan kemampuannya (walaupun percaya diri saja tidak cukup), hanya memainkan satu gaya seringkali tidak efisien meskipun dapat dilakukan dengan efek yang cukup mengejutkan jika pemain cukup berpengalaman. 
+>- Sebagai contoh, bahkan ras pencuri yang "murni" secara tradisional seperti Halfling memiliki kualitas yang menjadikannya pilihan yang berharga untuk menyerang. Penyerang murni umumnya tidak dilihat sebagai masalah, tetapi sering kali mungkin untuk mencoba-coba di tempat misterius atau di bawah tanah sambil mempertahankan pasukan yang mengesankan.
 :::
 
 ## Hybrid

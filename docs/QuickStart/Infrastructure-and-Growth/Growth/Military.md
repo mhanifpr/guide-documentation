@@ -33,7 +33,9 @@ Setelah kita menemukan target yang tepat untuk diserang, kita perlu mendapatkan 
 
 
 :::tip [[Base Military Efficiency]]
+```
 >/Base Military Efficiency = ( 33 + 67 * ( Effective Wage Rate / 100 ) 0.25 ) * Ruby Dragon * Multi-Attack Protection Bonus
+```
 :::
 :::tip [[Offensive Military Efficiency (OME)]]
 >/OME = (Base Military Efficiency + Training Grounds Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Fanaticism * Bloodlust * Onslaught Ritual

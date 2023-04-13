@@ -1,6 +1,4 @@
----
-sidebar_posisition: 3
----
+
 # Combo Selection
 
 Berikut adalah tipe - tipe para pemain : 

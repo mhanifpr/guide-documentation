@@ -15,7 +15,7 @@ Di dunia Utopia, waktu berjalan jauh lebih cepat dibandingkan dengan waktu di Bu
 
 Di awal setiap Era, semua orang mulai dari awal dengan provinsi yang baru, memberikan kesempatan pada setiap penguasa dan setiap kerajaan untuk menjadi yang terbaik. Setiap Era berlangsung sekitar 8 hingga 12 tahun Utopia, yang setara dengan 8 hingga 12 minggu di waktu Bumi.
 
-## Choose Races and Personality
+## Choose [Races](https://utopia-game.com/wol/chooser/age_details/) and Personality
 > Untuk memulai permainan, pemain harus membuat kerajaannya dengan menentukan wilayah yang akan dikuasainya. Pemain juga harus **`memilih ras`** yang akan dimainkan, yang akan menentukan **`karakteristik`** khusus dan kemampuan khusus kerajaan.
 
 ## Growth

@@ -52,6 +52,7 @@ Unless otherwise specified, these buildings have a maximum effect of 25 times th
 >3. [[Percentage-based Buildings]]
 :::
 -----
+# Buildings and Their Effect
 
 ### Buildings Formula
 

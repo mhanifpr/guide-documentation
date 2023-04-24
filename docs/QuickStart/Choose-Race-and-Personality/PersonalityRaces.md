@@ -1,3 +1,5 @@
+# Personality and Races
+
 ## Choose Personality
 Di Utopia, selain memilih ras, Anda juga akan memilih kepribadian (personality). Penguasa Utopia memiliki berbagai macam kepribadian yang dapat dipilih. Meskipun tidak ada kombinasi yang "terbaik", disarankan bagi para penguasa baru untuk memilih ras dan kepribadian yang memiliki kekuatan inti yang serupa untuk dibangun
 
@@ -38,3 +40,33 @@ Di Utopia, selain memilih ras, Anda juga akan memilih kepribadian (personality).
 > - Agresif, kuat, dan tegas adalah semua kata sifat yang terlintas dalam pikiran saat menggambarkan Warrior. Kepemimpinan melalui kekuatan militer adalah inti dari menjadi seorang Warrior.
 > - Gelar: [NamaPenguasa] sang Prajurit
 :::
+
+## Choose Races
+Jadi, dalam utopia-game pemain harus menentukan ras terlebih dahulu. Ras sendiri merupakan kelompok etnis atau spesies karakter yang dapat dipilih oleh pemain untuk mewakili Kerajaan mereka dalam permainan.
+
+### Races List
+:::tip Avian
+> Ras burung yang memiliki sayap yang sangat cepat. Karena lebih suka menyerang dari udara, pasukan militer mereka tidak menggunakan kuda perang. Pasukan mereka menyerang dengan presisi dan akurasi dari udara dan hilang dengan sangat cepat sehingga sulit bagi pasukan musuh untuk menyerang mereka. Provinsi-provinsi ini cocok untuk dipimpin oleh penguasa yang dapat mengikuti kecepatan mereka!
+:::
+:::tip Dwarf
+>Ras yang sangat mudah beradaptasi. Tergantung pada kecenderungan orang yang memimpin mereka, mereka mampu menyerang, melakukan sihir, dan kejahatan, dan di bawah pemerintahan yang tepat, mereka dapat menjadi ahli ekonomi yang hebat. Pasukan mereka yang kuat dan tangguh dapat membuat mereka menjadi kekuatan yang harus diperhitungkan. Dwarves juga merupakan ras yang sangat rajin, dengan tingkat produktivitas di atas rata-rata dan bakat khusus dalam bidang konstruksi.
+:::
+:::tip Faery
+> Ras yang cepat, lincah, dan cerdas, sangat baik dalam mempertahankan tanah mereka. Mereka adalah makhluk nakal yang hidup dari menyebabkan kekacauan - terutama melalui metode sihir dan kejahatan.
+:::
+:::tip Human
+> Ras yang terampil dalam seni ilmiah, selalu mencari untuk mengembangkan pengetahuan mereka. Keunggulan unik ini memungkinkan mereka untuk mengembangkan keterampilan lanjutan dalam bidang apa pun yang mereka pilih.
+:::
+:::tip Orc
+> Ras yang kuat dan haus darah. Pendekatan mereka yang agresif memberikan keuntungan besar dalam pertempuran, namun kurangnya kehalusan berarti seni sihir dan kejahatan menjadi tantangan besar bagi mereka.
+:::
+:::tip Elf
+> Makhluk magis yang cenderung cakap dalam melakukan sihir, meregenerasi energi mereka jauh lebih cepat daripada ras lainnya. Selain memiliki selera untuk seni mistik, mereka juga bisa menjadi penyerang yang tangguh.
+:::
+:::tip Halfling
+> Terkenal dengan kecepatan dan keterampilan kejahatan mereka. Ukuran tubuh kecil membuat mereka menjadi prajurit yang biasa-biasa saja, tetapi juga menciptakan banyak keuntungan unik. Ukuran mereka yang kecil juga menghasilkan kemampuan alami untuk meningkatkan efektivitas mereka dalam operasi kejahatan tertentu.
+:::
+:::caution Warning
+ Dalam memilih ras untuk Kerajaan Anda, penting untuk mempertimbangkan gaya permainan dan strategi Anda. Apakah Anda lebih suka menyerang secara agresif atau mempertahankan tanah Anda? Apakah Anda lebih fokus pada sihir atau ilmu pengetahuan? Dengan memilih ras yang tepat untuk Kerajaan Anda, Anda dapat memaksimalkan kekuatan Anda dan meminimalkan kelemahan Anda, menciptakan kekuatan yang tangguh di Utopia.
+:::
+

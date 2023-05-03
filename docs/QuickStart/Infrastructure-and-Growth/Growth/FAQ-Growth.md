@@ -31,15 +31,29 @@ sidebar_position: 3
     <br/>
     </details>
 
-> [!faq]- How can I increase my population in Utopia?
-> Increasing your population in Utopia is crucial for growing your kingdom's economy, military strength, and overall power. Here are some ways to increase your population:
-   >1.  ==Construct and upgrade housing==: Building and upgrading housing structures, such as cottages and apartments, is the most direct way to increase your population in Utopia. The more housing you have, the more citizens you can support.
-  > 2. ==Research population technologies==: Researching population technologies, such as Medicine and Education, can increase your kingdom's population growth rate.
-   >3.  ==Develop infrastructure==: Building and upgrading infrastructure, such as roads and markets, can improve the quality of life for your citizens and attract more people to your kingdom.
-   >4.  ==Participate in religious events==: Certain religious events in Utopia, such as the Festival of the Sun and the Festival of the Moon, can increase your population growth rate for a limited time.
-  > 5.  ==Use spells==: Certain spells, such as the Summon Spell, can bring in new citizens to your kingdom.
-   > 6. ==Increase happines==: Keeping your citizens happy can also increase your population growth rate. Constructing entertainment buildings and maintaining low crime rates can help increase happiness levels.    
-   > >Overall, increasing your population in Utopia requires a combination of strategies, such as constructing housing, researching population technologies, developing infrastructure, participating in events, and keeping your citizens happy.
+<details>
+  <summary>How can I increase my population in Utopia?</summary>
+  <div>
+<div> 
+Increasing your population in Utopia is crucial for growing your kingdom's economy, military strength, and overall power. Here are some ways to increase your population:
+  <br/>
+   1.  Construct and upgrade housing: Building and upgrading housing structures, such as cottages and apartments, is the most direct way to increase your population in Utopia. The more housing you have, the more citizens you can support.
+   <br/>
+   2. Research population technologies: Researching population technologies, such as Medicine and Education, can increase your kingdom's population growth rate.
+   <br/>
+   3.  Develop infrastructure==: Building and upgrading infrastructure, such as roads and markets, can improve the quality of life for your citizens and attract more people to your kingdom.
+   <br/>
+   4.  ==Participate in religious events==: Certain religious events in Utopia, such as the Festival of the Sun and the Festival of the Moon, can increase your population growth rate for a limited time.
+  <br/>
+   5.  ==Use spells==: Certain spells, such as the Summon Spell, can bring in new citizens to your kingdom.
+  <br/>
+   6. ==Increase happines==: Keeping your citizens happy can also increase your population growth rate. Constructing entertainment buildings and maintaining low crime rates can help increase happiness levels.
+  <hr/>
+   Overall, increasing your population in Utopia requires a combination of strategies, such as constructing housing, researching population technologies, developing infrastructure, participating in events, and keeping your citizens happy.
+</div>
+</div>
+    <br/>
+    </details>
     
 >[!faq]-  What are the most important buildings to construct for growth in Utopia?
 > The most important buildings to construct for growth in Utopia depend on your specific goals and playstyle. However, here are some buildings that are generally considered crucial for growth:

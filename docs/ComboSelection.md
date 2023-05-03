@@ -5,8 +5,10 @@ sidebar_position: 2
 
 # Combo Selection
 
-## Pure
+Ada dua jenis pemain dalam game ini, ada Pure dan Hybrid.
 
+## Pure
+setiap pemain yang hanya menggunakan satu role (Attacker, Thief, atau mage) dikenal sebagai anggota murni seperti: 
 <details>
   <summary>Attacker</summary>
   <div>
@@ -50,7 +52,7 @@ Mirip dengan gaya Pencuri di atas, pemain yang hanya menggunakan sihir biasanya 
 
 ## Hybrid
 
->Seperti yang dijelaskan di atas, setiap pemain yang hanya menggunakan satu disiplin (menyerang, mencuri, atau merapal mantra) dikenal sebagai anggota murni dari disiplin tersebut. Sebaliknya, setiap pemain yang menggunakan dua atau lebih disiplin dikenal sebagai hybrid. 
+>Seperti yang dijelaskan di atas, setiap pemain yang hanya menggunakan satu role (menyerang, mencuri, atau merapal mantra) dikenal sebagai anggota murni dari disiplin tersebut. Sebaliknya, setiap pemain yang menggunakan dua atau lebih disiplin dikenal sebagai hybrid. 
 
 :::info
 

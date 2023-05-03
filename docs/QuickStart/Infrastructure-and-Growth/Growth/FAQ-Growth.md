@@ -6,17 +6,31 @@ sidebar_position: 3
 
 # FAQ Growth
 
-> [!info]- Here are some commonly asked questions related to growth:
+:::info Here are some commonly asked questions related to growth:
+:::
 
-> [!faq]- What is the best way to grow my kingdom in Utopia?
-  >There is no one-size-fits-all answer to this question, as the best way to grow your kingdom in Utopia depends on various factors, such as your play style, goals, and available resources. However, some general tips for growth in Utopia include:
-  >1.  Focus on building your economy: Your kingdom's economic strength is critical to supporting growth in Utopia. To increase your resources, construct and upgrade resource-producing buildings, research economic technologies, and trade with other kingdoms.
-  > 2.  Maintain a strong military: While a strong military is not the only factor in growth, it is essential to protect your kingdom and expand your territory. Train and equip your armies, build fortifications, and engage in strategic warfare.
-   >3.  Expand your territory: Expanding your kingdom's borders through conquest or diplomacy is another way to grow in Utopia. Be sure to balance your expansion goals with maintaining good relations with other kingdoms.
-   >4.  Develop your technology: Researching new technologies can give you an edge in various aspects of the game, such as resource production, military strength, and diplomacy.
-   >5.  Join an alliance: Joining an alliance can provide support, protection, and opportunities for growth through trade, shared resources, and coordinated military campaigns.
-      > >Overall, the key to growing your kingdom in Utopia is to maintain a balance between building your economy, developing your military, expanding your territory, and advancing your technology.
-    
+<details>
+  <summary>What is the best way to grow my kingdom in Utopia?</summary>
+  <div>
+<div> 
+  There is no one-size-fits-all answer to this question, as the best way to grow your kingdom in Utopia depends on various factors, such as your play style, goals, and available resources. However, some general tips for growth in Utopia include:
+  <br/>
+  1.  Focus on building your economy: Your kingdom's economic strength is critical to supporting growth in Utopia. To increase your resources, construct and upgrade resource-producing buildings, research economic technologies, and trade with other kingdoms.
+  <br/>
+  2.  Maintain a strong military: While a strong military is not the only factor in growth, it is essential to protect your kingdom and expand your territory. Train and equip your armies, build fortifications, and engage in strategic warfare.
+  <br/>
+  3.  Expand your territory: Expanding your kingdom's borders through conquest or diplomacy is another way to grow in Utopia. Be sure to balance your expansion goals with maintaining good relations with other kingdoms.
+  <br/>
+  4.  Develop your technology: Researching new technologies can give you an edge in various aspects of the game, such as resource production, military strength, and diplomacy.
+  <br/> 
+  5.  Join an alliance: Joining an alliance can provide support, protection, and opportunities for growth through trade, shared resources, and coordinated military campaigns.
+  <hr/>
+      Overall, the key to growing your kingdom in Utopia is to maintain a balance between building your economy, developing your military, expanding your territory, and advancing your technology.
+</div>
+</div>
+    <br/>
+    </details>
+
 > [!faq]- How can I increase my population in Utopia?
 > Increasing your population in Utopia is crucial for growing your kingdom's economy, military strength, and overall power. Here are some ways to increase your population:
    >1.  ==Construct and upgrade housing==: Building and upgrading housing structures, such as cottages and apartments, is the most direct way to increase your population in Utopia. The more housing you have, the more citizens you can support.

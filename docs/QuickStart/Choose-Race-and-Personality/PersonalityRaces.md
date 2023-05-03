@@ -5,7 +5,7 @@ Di Utopia, selain memilih ras, Anda juga akan memilih kepribadian (personality).
 
 ### Personality List
 
-<details>
+
 :::tip The Cleric
 > - Clerik membantu pasukan mereka di medan perang dengan menyembuhkan prajurit yang terluka untuk mengurangi jumlah korban keseluruhan. Mereka mendukung rekan mereka dengan berkat magis.
 > - Gelar: [NamaPenguasa] yang Diberkati

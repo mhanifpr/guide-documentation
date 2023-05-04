@@ -88,12 +88,12 @@ const config = {
             position: 'left',
             label: 'Combination',
           },
-          {
-            type: 'doc',
-            docId: 'QuickStart',
-            position: 'left',
-            label: 'QuickStart',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'QuickStart',
+          //   position: 'left',
+          //   label: 'QuickStart',
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',

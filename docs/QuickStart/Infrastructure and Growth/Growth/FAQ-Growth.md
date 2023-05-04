@@ -55,18 +55,34 @@ Increasing your population in Utopia is crucial for growing your kingdom's econo
     <br/>
     </details>
     
->[!faq]-  What are the most important buildings to construct for growth in Utopia?
+<details>
+  <summary>What are the most important buildings to construct for growth in Utopia?</summary>
+  <div>
+<div> 
 > The most important buildings to construct for growth in Utopia depend on your specific goals and playstyle. However, here are some buildings that are generally considered crucial for growth:
+   <br/>
    > 1.  Farms: Farms produce food, which is essential for supporting your kingdom's population and military. Constructing and upgrading farms should be a top priority to ensure a steady food supply.
+   <br/>
    > 2.   Mines: Mines produce metal, which is used for constructing and upgrading buildings, weapons, and armor. Mining is essential for expanding your kingdom's military power and economy.
+   <br/>
    > 3.   Lumberyards: Lumberyards produce wood, which is used for constructing and upgrading buildings and fortifications. They are also essential for constructing ships and expanding your naval power.
+   <br/>
    >4.  Housing: As mentioned earlier, constructing and upgrading housing structures, such as cottages and apartments, is crucial for increasing your kingdom's population and supporting growth.
+   <br/>
   > 5.  Markets: Markets allow you to trade resources with other kingdoms, which is important for acquiring resources that your kingdom may lack and for generating income.
+  <br/>
   > 6.   Barracks: Barracks are essential for training and equipping your armies. Constructing and upgrading barracks should be a priority if you want to expand your military power.
+  <br/>
   > 7.  Fortifications: Fortifications, such as walls and towers, are crucial for defending your kingdom against attacks. Constructing and upgrading fortifications is necessary to protect your resources, population, and military.
+  <br/>
   > 8. Temples: Temples allow you to worship and gain favor with the gods, which can provide various benefits, such as increased resource production, military strength, and population growth.
+  <hr/>
    > >Overall, the most important buildings to construct for growth in Utopia are those that support your specific goals, such as expanding your military, increasing resource production, and growing your population.
-    
+</div>
+</div>
+    <br/>
+    </details>
+        
 >[!faq]-   How do I manage my resources effectively for growth in Utopia?
 > Managing resources effectively is crucial for growth in Utopia. Here are some tips on how to manage your resources effectively:
    > 1.  Prioritize your needs: Determine which resources are most important for your kingdom's growth and prioritize their production. For example, if you're expanding your military, prioritize metal production.

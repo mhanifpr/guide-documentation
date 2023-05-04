@@ -1,3 +1,5 @@
+# Buildings and Their Effect
+
 Hai! Utopia adalah sebuah game online yang menantang di mana kamu bisa membangun provinsimu sendiri. Salah satu elemen penting di dalam game ini adalah bangunan-bangunan.
 
 >Bangunan-bangunan ini sangatlah penting karena mereka memberikan berbagai manfaat bagi kerajaanmu, seperti meningkatkan produksi sumber daya, meningkatkan pertahanan militer, dan bahkan meningkatkan kemampuan sihir.
@@ -52,7 +54,6 @@ Unless otherwise specified, these buildings have a maximum effect of 25 times th
 >3. [[Percentage-based Buildings]]
 :::
 -----
-# Buildings and Their Effect
 
 ### Buildings Formula
 

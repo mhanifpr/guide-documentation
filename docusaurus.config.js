@@ -63,12 +63,12 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
-      algolia: { 
-        apiKey: '5d1b15476b581a07a924f2bb8f822ed0',
-        indexName: 'dev_docusaurus_guide1',
-        contextualSearch: true,
-        appId: 'MC92J8YZI7',
-      },
+      // algolia: { 
+      //   apiKey: '5d1b15476b581a07a924f2bb8f822ed0',
+      //   indexName: 'dev_docusaurus_guide1',
+      //   contextualSearch: true,
+      //   appId: 'MC92J8YZI7',
+      // },
       navbar: {
         title: 'Utopia',
         logo: {

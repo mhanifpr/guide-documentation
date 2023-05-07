@@ -1,9 +1,12 @@
+---
+sidebar-position: 3
+---
+
 # Most Common Combination
 
-`Elf + Mystic : 11%
-Undead + Warrior : 9%
-Avian + Cleric : 7%
-`
+`Elf + Mystic : 11%`
+`Undead + Warrior : 9%`
+`Avian + Cleric : 7%`
 
 Kombinasi diatas merupakan kombinasi yang direkomendasikan oleh game pada saat kita ingin memilih Personality dan Race. Berikut adalah alasan mengapa kombinasi tersebut sering digunakan: 
 

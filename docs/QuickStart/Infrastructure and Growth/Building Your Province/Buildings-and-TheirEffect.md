@@ -6,9 +6,9 @@ Hai! Utopia adalah sebuah game online yang menantang di mana kamu bisa membangun
 
 ---
 
-## [Buildings](https://www.notion.so/2bdab2ed52c04b72a15c0ac90895753b?v=1b8983ca18b1412a9015b56010d8b44e&pvs=4)
+## Buildings
 
-Berikut adalah beberapa  bangunan  di Utopia:
+Berikut adalah beberapa  [**`bangunan`**](https://www.notion.so/2bdab2ed52c04b72a15c0ac90895753b?v=1b8983ca18b1412a9015b56010d8b44e&pvs=4) di Utopia:
 
 No.| Buildings Name| No.| Buildings Name
 ---|----------------|---|----------------

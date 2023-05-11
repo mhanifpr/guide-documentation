@@ -117,5 +117,3 @@ Di Utopia, selain memilih ras, Anda juga akan memilih kepribadian (personality).
     <br/>
     </details>
 
-## Choose Races
-Jadi, dalam utopia-game pemain harus menentukan ras terlebih dahulu. Ras sendiri merupakan kelompok etnis atau spesies karakter yang dapat dipilih oleh pemain untuk mewakili Kerajaan mereka dalam permainan.

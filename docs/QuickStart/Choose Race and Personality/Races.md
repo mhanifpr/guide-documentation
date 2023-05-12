@@ -73,6 +73,47 @@ Terkenal dengan kecepatan dan keterampilan kejahatan mereka. Ukuran tubuh kecil 
     <br/>
     </details>
 
+<details>
+  <summary>Undead</summary>
+  <div>
+<div>
+Undead adalah ras yang telah bangkit kembali dari kematian. Mereka memiliki kemampuan regenerasi tubuh yang sangat kuat dan kebal terhadap serangan sihir tertentu. Namun, mereka juga rentan terhadap serangan sihir penyembuhan dan memiliki keterbatasan dalam produksi sumber daya.
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Dark Elf</summary>
+  <div>
+<div>
+Dark Elf adalah ras yang cerdas dan memiliki kemampuan sihir yang kuat. Mereka terkenal dengan keahlian dalam memproduksi sumber daya dan dapat membuat pasukan yang kuat. Namun, mereka juga rentan terhadap serangan musuh dan memiliki sedikit kekuatan pertahanan.
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Dryad</summary>
+  <div>
+<div>
+Dryad adalah ras yang hidup di hutan dan memiliki kemampuan sihir yang kuat dalam hal pertanian dan kehutanan. Mereka dapat mempercepat produksi sumber daya dan meningkatkan hasil panen, serta memiliki kemampuan penyembuhan dan perlindungan terhadap serangan musuh.
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Gnome</summary>
+  <div>
+<div>
+Gnome adalah ras kecil yang cerdas dan terampil dalam hal teknologi dan pengeboran tambang. Mereka dapat membangun bangunan dan mesin yang kompleks, serta memproduksi sumber daya tambang dengan cepat. Namun, mereka kurang memiliki kekuatan tempur dan pertahanan yang baik.
+</div>
+</div>
+    <br/>
+    </details>
+
+
 :::tip
 
 Dalam memilih ras untuk Kerajaan Anda, penting untuk mempertimbangkan gaya permainan dan strategi Anda. Apakah Anda lebih suka menyerang secara agresif atau mempertahankan tanah Anda? Apakah Anda lebih fokus pada sihir atau ilmu pengetahuan? Dengan memilih ras yang tepat untuk Kerajaan Anda, Anda dapat memaksimalkan kekuatan Anda dan meminimalkan kelemahan Anda, menciptakan kekuatan yang tangguh di Utopia.

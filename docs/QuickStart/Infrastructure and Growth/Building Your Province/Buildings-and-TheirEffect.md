@@ -25,7 +25,7 @@ No.| Buildings Name| No.| Buildings Name
 
 >Dengan membangun dan mengelola bangunan-bangunan ini dengan bijak, kamu dapat membangun kerajaan yang sukses dan kuat di Utopia. Selamat mencoba dan jangan lupa untuk bermain dengan cerdas dan bijak!
 
---------
+---------
 ### The Buildings 
 <details>
   <summary>Armouries</summary>
@@ -43,6 +43,7 @@ Percent-Based effect
 </div>
     <br/>
     </details>  
+
 --------
 
 ### Buildings Effect

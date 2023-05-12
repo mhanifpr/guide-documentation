@@ -3,6 +3,10 @@
 ## Food
 Food sangat penting untuk pertumbuhan kota dan pasukan Anda di Utopia. Anda memerlukan jumlah Food yang cukup untuk menjaga kestabilan populasi kota, membangun bangunan, dan melatih pasukan. Jika pasokan Food Anda menipis, kesehatan dan kekuatan pasukan akan menurun, sehingga membuat Anda lebih rentan terhadap serangan musuh. Pastikan untuk mempertahankan produksi makanan yang cukup agar kota Anda selalu berkembang dengan baik. Satuan Food adalah bushels
 
+:::caution Food Decayed
+Dalam kondisi normal, sekitar 0,99 atau sekitar 1% dari total stok makanan akan _`rusak`_. Jumlah yang tepat tergantung pada pengubah dalam rumus yang telah diberikan di atas dan dihitung berdasarkan total makanan yang disimpan di provinsi. Jadi jika sebuah provinsi memiliki 300.000 gantang makanan dalam stok dalam kondisi normal, maka penurunan yang diharapkan sedikit lebih atau kurang dari 3000 gantang per tick / hari Utopia. Terkadang, jumlah makanan yang rusak bisa lebih tinggi daripada yang tersisa setelah makanan yang dibutuhkan oleh populasi dikonsumsi dari hasil pertanian.
+:::
+
 ### Formula Food
 :::caution Food Consume
 Jika suatu provinsi tidak memiliki _`Food`_, maka provinsi tersebut akan mengalami kelaparan. Ketika provinsi mengalami kelaparan, jumlah populasi di dalamnya (petani, pasukan militer, dan pencuri) akan berkurang seiring dengan besarnya kekurangan makanan (termasuk pasukan yang sedang berada di luar provinsi). Namun, para penyihir tidak akan terpengaruh oleh kondisi kelaparan. Tingkat kematian akibat kelaparan ini dibatasi maksimal 5% dan akan berlanjut sampai nilai makanan di provinsi tersebut lebih besar dari 0.

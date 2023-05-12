@@ -44,6 +44,7 @@ Percent-Based effect
     <br/>
     </details>  
 --------
+
 ### Buildings Effect
 
 Masing-masing bangunan yang ada pada Utopia-game memiliki efek yang berbeda terhadap provinsimu. Yang dibagi menjadi 3 jenis yaitu: 
@@ -66,9 +67,12 @@ Unless otherwise specified, these buildings have a maximum effect of 25 times th
 
 /Percentage Based Buildings = Base Effect BE MIN(50%, % of building (1 + Race)) (100% - MIN(50%, % of building * (1 + Race)))</TabItem>
 </Tabs> -->
-> 1. [[Capacity Buildings]]
->2. [[Flat Rate Buildings]]
->3. [[Percentage-based Buildings]]
+1. [[Capacity Buildings]]
+ > Bangunan-bangunan ini hanya menciptakan ruang untuk Anda, dan tidak terpengaruh oleh masalah efisiensi. Homes, misalnya, menyediakan ruang tambahan bagi petani.
+2. [[Flat Rate Buildings]]
+ > Jenis bangunan ini menyediakan sejumlah sumber daya tertentu. Gedung-gedung ini membutuhkan banyak karyawan agar berfungsi sepenuhnya. Bangunan-bangunan ini dipengaruhi oleh efisiensi bangunan. Contohnya adalah Menara yang membuat sejumlah rune setiap hari
+3. [[Percentage-based Buildings]]
+ > Mayoritas bangunan utopis berbasis persentase. Bangunan-bangunan ini memberikan efek berdasarkan porsi tanah Anda yang dicakup olehnya. Misalnya, memiliki 10% dari tanah Anda sebagai Bank akan meningkatkan penghasilan Anda dengan persentase tertentu. Seperti gedung flat-rate, ini juga membutuhkan karyawan untuk memberikan efek penuh. Selain itu, setiap bangunan tambahan yang Anda bangun akan menjadi kurang efektif. Angka yang tercantum di bagian ini adalah untuk bangunan pertama yang Anda dirikan. Penasihat Urusan Dalam Negeri Anda akan membantu Anda memahami manfaat tanah Anda. Kecuali ditentukan lain, bangunan ini memiliki efek maksimum 25 kali lipat dari jumlah yang tercantum di bawah. Dengan _`building efficiency`_ normal, maksimum ini dicapai dengan mendedikasikan 50% tanah Anda untuk bangunan itu.
 :::
 -----
 

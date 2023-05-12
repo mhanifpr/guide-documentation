@@ -4,9 +4,6 @@ sidebar_position: 3
 ---
 
 # Unit
-b
-Ras burung yang memiliki sayap yang sangat cepat. Karena lebih suka menyerang dari udara, pasukan militer mereka tidak menggunakan kuda perang. Pasukan mereka menyerang dengan presisi dan akurasi dari udara dan hilang dengan sangat cepat sehingga sulit bagi pasukan musuh untuk menyerang mereka. Provinsi-provinsi ini cocok untuk dipimpin oleh penguasa yang dapat mengikuti kecepatan mereka!
-
 
 Unit list : 
 † = [Racial](http://wiki.utopia-game.com/index.php?title=Race#Comparison_Table "Race") and [Personality](http://wiki.utopia-game.com/index.php?title=Personality#Comparison_Table "Personality") modifiers can increase or decrease this number.

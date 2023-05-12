@@ -26,7 +26,24 @@ No.| Buildings Name| No.| Buildings Name
 >Dengan membangun dan mengelola bangunan-bangunan ini dengan bijak, kamu dapat membangun kerajaan yang sukses dan kuat di Utopia. Selamat mencoba dan jangan lupa untuk bermain dengan cerdas dan bijak!
 
 --------
-
+### The Buildings 
+<details>
+  <summary>Armouries</summary>
+  <div>
+<div>
+tempat dimana senjata dan peralatan militer disimpan dan dikelola. Ini biasanya digunakan oleh pasukan atau angkatan bersenjata untuk memastikan bahwa mereka memiliki persenjataan yang dibutuhkan saat diperlukan.
+<br/>
+percentBaseEffect. : decr 2% draft cost, decr 2% wages, decr 1.5% training cost
+percentMax         : 50%, 50%, 37.5%
+living space       : 25
+jobs               : 25
+<hr/>
+Percent-Based effect
+</div>
+</div>
+    <br/>
+    </details>  
+--------
 ### Buildings Effect
 
 Masing-masing bangunan yang ada pada Utopia-game memiliki efek yang berbeda terhadap provinsimu. Yang dibagi menjadi 3 jenis yaitu: 

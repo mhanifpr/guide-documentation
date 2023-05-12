@@ -116,6 +116,6 @@ Gnome adalah ras kecil yang cerdas dan terampil dalam hal teknologi dan pengebor
 
 :::tip
 
-Dalam memilih ras untuk Kerajaan Anda, penting untuk mempertimbangkan gaya permainan dan strategi Anda. Apakah Anda lebih suka menyerang secara agresif atau mempertahankan tanah Anda? Apakah Anda lebih fokus pada sihir atau ilmu pengetahuan? Dengan memilih ras yang tepat untuk Kerajaan Anda, Anda dapat memaksimalkan kekuatan Anda dan meminimalkan kelemahan Anda, menciptakan kekuatan yang tangguh di Utopia.
+Dalam memilih ras untuk Kerajaan Anda, penting untuk mempertimbangkan [**`gaya permainan dan strategi`**](./MostCommonComb.md) Anda. Apakah Anda lebih suka menyerang secara agresif atau mempertahankan tanah Anda? Apakah Anda lebih fokus pada sihir atau ilmu pengetahuan? Dengan memilih ras yang tepat untuk Kerajaan Anda, Anda dapat memaksimalkan kekuatan Anda dan meminimalkan kelemahan Anda, menciptakan kekuatan yang tangguh di Utopia.
 :::
 

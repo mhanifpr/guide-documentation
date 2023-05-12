@@ -4,8 +4,9 @@ sidebar_position: 3
 ---
 
 
-# FAQ Growth
+# FAQ
 
+## FAQ-Growth
 :::info Here are some commonly asked questions related to growth:
 :::
 
@@ -160,3 +161,44 @@ Expanding your territory is an important aspect of growing your kingdom's power 
     </details>    
 
 
+## Commonly used Acronyms and Definitions
+
+> KD = Kingdom
+> BE = Building Efficiency
+> ME = Military Efficiency
+> OME = Offensive Military Efficiency
+> DME = Defensive Military Efficiency
+> OPA = Offense Per Acre
+> OSPA = Offense Specialists Per Acre
+> DPA = Defense Per Acre
+> DSPA = Defense Specialists Per Acre
+> EPA = Elites Per Acre
+> TPA = Thieves Per Acre
+> RTPA = Raw Thieves Per Acre
+> MTPA = Modified Thieves Per Acre
+> WPA = Wizards Per Acre
+> RWPA = Raw Wizards Per Acre
+> MWPA = Modified Wizards Per Acre
+> PPA = Peasants Per Acre
+> TM = Traditional March
+> T/M = Thief/Mage
+> FB = Fire Ball
+> LL = Land Lust
+> Dice = Paradise
+> MV = Mystic Vortex
+> Prop = Propaganda
+> MP = Minor Protection
+> Prot = Protection
+> WW = War Win
+> Crown = Winning Chart
+> EOA = End of Age
+> CF = Cease-Fire
+> EOWCF = End Of War Cease-Fire
+> Wave = Large group of coordinated attacks
+> OOP = Out Of Protection
+> Overpop = Generally used when your total population is so far over your maximum population that you can't attack
+> PK = Peasant Kill - this happens when you have 0 peasants, at which point your province will perish
+> Chain = Co-ordinated attacks against a single target in a specific order for maximum gains and damage
+> Bounce = A failed attack
+> UB = Unbreakable (referring to defense)
+> Bush = Short for Ambush

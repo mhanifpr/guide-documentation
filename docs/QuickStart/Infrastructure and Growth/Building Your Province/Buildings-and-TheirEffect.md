@@ -47,6 +47,25 @@ jobs               : 25
     <br/>
     </details>  
 
+<details>
+  <summary>Banks</summary>
+  <div>
+<div>
+Bank adalah salah satu sumber pendapatan utama di Utopia bersama dengan pemungutan pajak. Setiap hari, setiap Bank yang Anda miliki akan menghasilkan sejumlah emas. Selain itu, semua Bank Anda bekerja sama untuk meningkatkan fasilitas pengumpulan pajak Anda, sehingga semakin meningkatkan pendapatan global Anda.
+<hr/>
+percentBaseEffect. : 1.5% income
+<br/>
+percentMax         : 37.5%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based effect dan Flat Rate Base Effect) 
+</div>
+</div>
+    <br/>
+    </details>  
 --------
 
 ### Buildings Effect

@@ -1,3 +1,4 @@
+# Explore
 
 ## Eksplorasi
 >Salah satu opsi yang tersedia bagi kami untuk meningkatkan ukuran tanah kami adalah menjelajah dengan melengkapi ekspedisi dengan tentara dan emas. Tanah dari perjalanan ini akan tersedia selama 24 detik. 

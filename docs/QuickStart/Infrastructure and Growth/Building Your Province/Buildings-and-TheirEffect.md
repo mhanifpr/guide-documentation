@@ -40,8 +40,8 @@ percentMax         : 50%, 50%, 37.5%
 living space       : 25
 <br/>
 jobs               : 25
-<hr/>
-Percent-Based effect
+<br/>
+(Percent-Based effect)
 </div>
 </div>
     <br/>

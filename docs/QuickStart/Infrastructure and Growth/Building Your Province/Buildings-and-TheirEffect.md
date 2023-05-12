@@ -25,7 +25,22 @@ No.| Buildings Name| No.| Buildings Name
 
 >Dengan membangun dan mengelola bangunan-bangunan ini dengan bijak, kamu dapat membangun kerajaan yang sukses dan kuat di Utopia. Selamat mencoba dan jangan lupa untuk bermain dengan cerdas dan bijak!
 
----------
+-----
+
+### Buildings Effect
+
+Masing-masing bangunan yang ada pada Utopia-game memiliki efek yang berbeda terhadap provinsimu. Yang dibagi menjadi 3 jenis yaitu: 
+
+:::tip Jenis Efek terhadap Buildings
+
+1. ***`Capacity Buildings`***
+ > Bangunan-bangunan ini hanya menciptakan ruang untuk Anda, dan tidak terpengaruh oleh masalah efisiensi. Homes, misalnya, menyediakan ruang tambahan bagi petani.
+2. ***`Flat Rate Buildings`***
+ > Jenis bangunan ini menyediakan sejumlah sumber daya tertentu. Gedung-gedung ini membutuhkan banyak karyawan agar berfungsi sepenuhnya. Bangunan-bangunan ini dipengaruhi oleh efisiensi bangunan. Contohnya adalah Menara yang membuat sejumlah rune setiap hari
+3. ***`Percentage-based Buildings`***
+ > Mayoritas bangunan utopis berbasis persentase. Bangunan-bangunan ini memberikan efek berdasarkan porsi tanah Anda yang dicakup olehnya. Misalnya, memiliki 10% dari tanah Anda sebagai Bank akan meningkatkan penghasilan Anda dengan persentase tertentu. Seperti gedung flat-rate, ini juga membutuhkan karyawan untuk memberikan efek penuh. Selain itu, setiap bangunan tambahan yang Anda bangun akan menjadi kurang efektif. Angka yang tercantum di bagian ini adalah untuk bangunan pertama yang Anda dirikan. Penasihat Urusan Dalam Negeri Anda akan membantu Anda memahami manfaat tanah Anda. Kecuali ditentukan lain, bangunan ini memiliki efek maksimum 25 kali lipat dari jumlah yang tercantum di bawah. Dengan _`building efficiency`_ normal, maksimum ini dicapai dengan mendedikasikan 50% tanah Anda untuk bangunan itu.
+:::
+-----
 ### The Buildings 
 <details>
   <summary>Armouries</summary>
@@ -66,39 +81,229 @@ jobs               : 25
 </div>
     <br/>
     </details>  
---------
 
-### Buildings Effect
+<details>
+  <summary>Barren Land</summary>
+  <div>
+<div>
+Barren Land bukanlah bangunan yang sebenarnya. Ini hanya hektar yang tersedia - diperoleh dengan eksplorasi, mantra surga atau serangan - di provinsi Anda yang dapat dibangun dengan bangunan nyata seperti yang dijelaskan di bawah ini. Namun demikian, tanah tandus masih bisa menampung beberapa orang dan menghasilkan makanan dalam jumlah yang sangat kecil setiap hari.
+<hr/>
+Capacity           : 15 people
+<br/>
+Flat Rate Base     : 2 bushels per day
+<br/>
+living space       : 35
+<br/>
+jobs               : 0
+<br/>
+(Capacity Building dan Flat Rate Base Effect) 
+</div>
+</div>
+    <br/>
+    </details>  
 
-Masing-masing bangunan yang ada pada Utopia-game memiliki efek yang berbeda terhadap provinsimu. Yang dibagi menjadi 3 jenis yaitu: 
+<details>
+  <summary>Dungeons</summary>
+  <div>
+<div>
+Dungeon adalah sebuah ruangan bawah tanah yang sering digunakan sebagai tempat penahanan atau penjara. Dunia bawah tanah ini biasanya gelap dan tidak nyaman, dan digunakan untuk menahan orang yang melakukan kejahatan atau kriminal.
+<hr/>
+Capacity           : 30 people
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Capacity Building Effect) 
+</div>
+</div>
+    <br/>
+    </details> 
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+<details>
+  <summary>Farms</summary>
+  <div>
+<div>
+Farms adalah salah satu bangunan terpenting di provinsi Anda, dan juga yang vital. Setiap hari, masing -masing orang Anda akan makan 0,25 bushels, dan setiap peternakan menghasilkan 60 bushels per hari. Perhatikan persediaan makanan Anda dengan sangat hati -hati, karena jika tidak, kelaparan mungkin menghabiskan populasi Anda dengan agak cepat!
+<hr/>
+Flat Rate Base     : 60 bushels
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Flat Rate Base Effect) 
+</div>
+</div>
+    <br/>
+    </details>  
 
-:::tip Jenis Efek terhadap Buildings
-<!-- <Tabs>
-  <TabItem value="capacityBuildings" label="Capacity Buildings">These buildings simply create space for you, and are not impacted by efficiency
-issues. Homes, for example, provide additional space for peasants.</TabItem>
-  <TabItem value="flatRateBuildingss" label="Flat Rate Buildings">This type of building provides a set amount of a particular resource. These
-buildings need many employees to be fully effective. These buildings are impacted by building efficiency. An example is a Tower which creates a set
-number of runes each day.
+<details>
+  <summary>Forts</summary>
+  <div>
+<div>
+Forts memberikan perlindungan superior kepada pasukan yang diadakan di garnisun di provinsi Anda, meningkatkan kekuatan pertahanan Anda secara keseluruhan terhadap serangan. Mempertahankan pertahanan yang baik adalah penting jika Anda ingin menjaga hektar dan sumber daya Anda aman.
+<hr/>
+percentBaseEffect. : 1.5% Defensive Military Efficiency (DME)
+<br/>
+percentMax         : 37.5%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details> 
 
-/Flat Rate Buildings= Base Effect Number of Buildings (1 + Race) * BE</TabItem>
-  <TabItem value="percentageBasedBuildings" label="Percentage-based Buildings">The majority of Utopian buildings are percentage-based. These buildings
-provide an effect based on the portion of your land covered by it. For example, having 10% of your land as Banks will increase your income by a certain percentage. Like flat-rate buildings, these also require employees to provide full effects. In addition, each additional building you construct will be less effective. The numbers listed in this section would be for the first building you construct. Your Internal Affairs Advisor will help you to understand the benefits of your land.
-Unless otherwise specified, these buildings have a maximum effect of 25 times the number listed below. With normal building efficiency, this maximum is reached by dedicating 50% of your land to that building.
+<details>
+  <summary>Guard Station</summary>
+  <div>
+<div>
+Guard Station memiliki manfaat dalam melindungi [[Resource]] dan networth Anda dari serangan musuh. Ketika terjadi serangan, Guard Station akan mengurangi kerugian yang mungkin terjadi pada [[Land]] dan [[Resource]] sebesar 1,5 kali persen. Selain itu, Guard Station juga dapat melindungi 1,5 kali persen [[Science]] Anda dari serangan musuh.
+<hr/>
+percentBaseEffect. : 1.5% Land and Resource Protection, 1.5% Science Protection
+<br/>
+percentMax         : 37.5%, 37.5%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
 
-/Percentage Based Buildings = Base Effect BE MIN(50%, % of building (1 + Race)) (100% - MIN(50%, % of building * (1 + Race)))</TabItem>
-</Tabs> -->
-1. ***`Capacity Buildings`***
- > Bangunan-bangunan ini hanya menciptakan ruang untuk Anda, dan tidak terpengaruh oleh masalah efisiensi. Homes, misalnya, menyediakan ruang tambahan bagi petani.
-2. ***`Flat Rate Buildings`***
- > Jenis bangunan ini menyediakan sejumlah sumber daya tertentu. Gedung-gedung ini membutuhkan banyak karyawan agar berfungsi sepenuhnya. Bangunan-bangunan ini dipengaruhi oleh efisiensi bangunan. Contohnya adalah Menara yang membuat sejumlah rune setiap hari
-3. ***`Percentage-based Buildings`***
- > Mayoritas bangunan utopis berbasis persentase. Bangunan-bangunan ini memberikan efek berdasarkan porsi tanah Anda yang dicakup olehnya. Misalnya, memiliki 10% dari tanah Anda sebagai Bank akan meningkatkan penghasilan Anda dengan persentase tertentu. Seperti gedung flat-rate, ini juga membutuhkan karyawan untuk memberikan efek penuh. Selain itu, setiap bangunan tambahan yang Anda bangun akan menjadi kurang efektif. Angka yang tercantum di bagian ini adalah untuk bangunan pertama yang Anda dirikan. Penasihat Urusan Dalam Negeri Anda akan membantu Anda memahami manfaat tanah Anda. Kecuali ditentukan lain, bangunan ini memiliki efek maksimum 25 kali lipat dari jumlah yang tercantum di bawah. Dengan _`building efficiency`_ normal, maksimum ini dicapai dengan mendedikasikan 50% tanah Anda untuk bangunan itu.
-:::
------
+<details>
+  <summary>Guilds</summary>
+  <div>
+<div>
+Guild juga dapat membantu meningkatkan hubungan dan kerja sama antara para [[Wizard]] dan [[Mage]]. Sebagai [[Mage]], Anda harus memperhatikan Guild dan memastikan bahwa [[Wizard]] Anda dilatih dengan baik dan memiliki akses ke [[Resources]] yang cukup untuk memenuhi kebutuhan mereka.
+<hr/>
+Flat Rate Base     : 2% train wizard daily
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Flat Rate Base Effect) 
+</div>
+</div>
+    <br/>
+    </details>
 
+<details>
+  <summary>Homes</summary>
+  <div>
+<div>
+Meskipun setiap [[acre]] [[Land]] yang dibangun sudah dihuni oleh orang-orang - yang berarti [[Homes]] bukan kebutuhan penting bagi sebuah [[Province]] - namun Anda mungkin ingin mendapatkan lebih banyak [[Population]]. Rumah memberikan warga negara Anda tempat tinggal yang lebih banyak dan juga meningkatkan [[Birth Rate]] alami. Selain itu, Rumah tidak mempekerjakan [[Farmer]] dan dengan demikian secara keseluruhan akan membantu Anda mengisi semua [[Jobs]] di provinsi Anda.
+<hr/>
+Capacity           : 10 people
+<br/>
+Flat Rate Base     : 0.5 peasants
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Capacity Building dan Flat Rate Base Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Hospitals</summary>
+  <div>
+<div>
+Rumah sakit militer memberikan tempat bagi pasukan Anda untuk mendapatkan perawatan medis. Mereka dilengkapi dengan peralatan medis seperti obat-obatan, peralatan bedah, dan peralatan diagnostik. Dokter dan perawat akan bekerja keras untuk merawat pasukan yang terluka, sehingga mereka bisa segera kembali ke medan perang. Selain itu, rumah sakit militer juga memberikan perawatan untuk pasukan yang sakit, sehingga mereka bisa pulih dengan cepat.
+<hr/>
+percentBaseEffect. : 3% Curing the plague, 3% Military losses
+<br/>
+percentMax         : 75%, 75%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Library</summary>
+  <div>
+<div>
+Library dapat meningkatkan [[Science Efficiency]] di dalam game. Artinya, dengan membangun [[Library]], kemajuan teknologi Anda akan menjadi lebih cepat. Setiap peningkatan [[Science Efficiency]] sebesar 1,25% akan diberikan kepada Anda ketika Anda membangun sebuah Library.
+<hr/>
+percentBaseEffect. : 1% increase science efficiency
+<br/>
+percentMax         : 25%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Military Barracks</summary>
+  <div>
+<div>
+ [[barak militer]] adalah bangunan yang terkait dengan militer. [[Employee]] di barak militer bertanggung jawab atas logistik militer Anda. Dengan memiliki barak militer yang baik, pasukan Anda dapat bergerak lebih cepat dan mencapai daerah musuh dengan lebih efisien. Dengan begitu, risiko terkena serangan saat pasukan Anda sedang menjalankan misi akan semakin kecil.
+<br/>
+Barak militer juga akan menurunkan waktu yang diperlukan untuk menyerang musuh. Dengan [[Attack Time]] yang lebih singkat, pasukan Anda dapat dengan cepat menyerang musuh dan menangani ancaman dengan lebih efektif.
+<hr/>
+percentBaseEffect. : 1.5% lowers attack time
+<br/>
+percentMax         : 37.5%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Mills</summary>
+  <div>
+<div>
+[[Exploration]] merupakan salah satu cara terpenting untuk berkembang di Utopia, dan dengan membangun gedung pabrik (mills) akan membantu Anda dalam mengirim [[Exploration]] dengan biaya yang lebih murah. Selain itu, pabrik juga akan meningkatkan keterampilan para pekerja Anda, sehingga konstruksi bangunan akan sedikit lebih murah.
+
+Dengan membangun [Mills], [biaya konstruksi bangunan] akan berkurang sebesar persentase tertentu, dan semakin besar pabrik yang Anda miliki, semakin besar pula pengurangan biaya tersebut. Pabrik juga dapat membantu dalam mengurangi [biaya pengeluaran emas] dan [Soldier] yang dikeluarkan saat melakukan [Exploration].
+<br/>
+Barak militer juga akan menurunkan waktu yang diperlukan untuk menyerang musuh. Dengan [[Attack Time]] yang lebih singkat, pasukan Anda dapat dengan cepat menyerang musuh dan menangani ancaman dengan lebih efektif.
+<hr/>
+percentBaseEffect. : 4% decrease building cost, 3% reduce explore gold expenses, 2% reduce explore soldier cost
+<br/>
+percentMax         : 100%, 75%, 50%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+
+----- 
 ### Buildings Formula
 
 :::tip Efisiensi pekerja terhadap bangunan yang dimiliki

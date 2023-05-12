@@ -283,10 +283,7 @@ jobs               : 25
   <div>
 <div>
 [[Exploration]] merupakan salah satu cara terpenting untuk berkembang di Utopia, dan dengan membangun gedung pabrik (mills) akan membantu Anda dalam mengirim [[Exploration]] dengan biaya yang lebih murah. Selain itu, pabrik juga akan meningkatkan keterampilan para pekerja Anda, sehingga konstruksi bangunan akan sedikit lebih murah.
-
 Dengan membangun [Mills], [biaya konstruksi bangunan] akan berkurang sebesar persentase tertentu, dan semakin besar pabrik yang Anda miliki, semakin besar pula pengurangan biaya tersebut. Pabrik juga dapat membantu dalam mengurangi [biaya pengeluaran emas] dan [Soldier] yang dikeluarkan saat melakukan [Exploration].
-<br/>
-Barak militer juga akan menurunkan waktu yang diperlukan untuk menyerang musuh. Dengan [[Attack Time]] yang lebih singkat, pasukan Anda dapat dengan cepat menyerang musuh dan menangani ancaman dengan lebih efektif.
 <hr/>
 percentBaseEffect. : 4% decrease building cost, 3% reduce explore gold expenses, 2% reduce explore soldier cost
 <br/>
@@ -302,6 +299,103 @@ jobs               : 25
     <br/>
     </details>
 
+<details>
+  <summary>Stables</summary>
+  <div>
+<div>
+Stable (kandang) merupakan gedung yang penting dalam hal militer di Utopia. [[Horses]] adalah kendaraan yang sangat berguna dalam pertempuran dan pengiriman pasukan, dan dengan membangun kandang, Anda dapat melatih lebih banyak kuda untuk digunakan dalam pertempuran.
+<hr/>
+Capacity           : 80 Horses
+<br/>
+Flat Rate Base     : 2 Horses
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Capacity Building dan Flat Rate Base Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Thieves Dens</summary>
+  <div>
+<div>
+Thieves Dens atau [[sarang pencuri]] adalah tempat para pencuri di provinsi Anda berlatih dan melakukan keahlian mereka. Sarang pencuri akan meningkatkan tingkat keberhasilan [[Thieves Operation]] yang Anda lakukan serta menurunkan kerugian yang dialami oleh para pencuri. Sarang pencuri sangat penting untuk para [Thief]
+<hr/>
+percentBaseEffect. : 4% Lowers Losses in Thievery Operations, 3% Increases Thievery Effectiveness
+<br/>
+percentMax         : 95%, 75%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Tower</summary>
+  <div>
+<div>
+Menara/Tower adalah bangunan besar yang digunakan untuk mengarahkan energi mistis yang dihasilkan oleh Bumi ke dalam batu kecil yang disebut [[Runes]]. [[Runes]] kemudian digunakan oleh para [Wizard] Anda saat melakukan pesona sihir.
+<hr/>
+Flat Rate Base     : 2 Runes
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Flat Rate Base Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>Training Grounds</summary>
+  <div>
+<div>
+Training Grounds adalah bangunan yang digunakan untuk melatih [[army]] militer Anda agar menjadi lebih efektif dan efisien dalam pertempuran. Ini membantu meningkatkan [[Offensive Military Efficiency]] Anda dan memungkinkan pasukan Anda untuk melawan lebih efektif di medan perang. Selain itu, dengan memiliki Training Grounds, [[cost]] yang Anda keluarkan untuk menyewa [[pasukan bayaran]] juga akan berkurang.
+<hr/>
+percentBaseEffect. : 1.5% Increases Offensive Military Efficiency, 2% Reduced Mercenary costs
+<br/>
+percentMax         : 37.5%, 50%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
+
+<details>
+  <summary>University</summary>
+  <div>
+<div>
+University adalah gedung yang sangat penting untuk pertumbuhan sains dan penelitian di Utopia. Dalam universitas, para sarjana mengumpulkan dan menganalisis pengetahuan, menciptakan ilmu baru dan teknologi baru. Income Anda dari Universitas sangat tergantung pada jumlah sarjana di provinsi Anda.
+<hr/>
+percentBaseEffect. : 2% Increase spawn rate of new scientists, 1% Higher Generation of Science Books
+<br/>
+percentMax         : 50%, 25%
+<br/>
+living space       : 25
+<br/>
+jobs               : 25
+<br/>
+(Percent-Based Effect) 
+</div>
+</div>
+    <br/>
+    </details>
 
 ----- 
 ### Buildings Formula

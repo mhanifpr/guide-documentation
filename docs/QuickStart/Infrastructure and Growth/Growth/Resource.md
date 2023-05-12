@@ -9,6 +9,14 @@ Jika suatu provinsi tidak memiliki _`Food`_, maka provinsi tersebut akan mengala
 `/Bushels Eaten = Total Population * 0.25 * [Race Mod](http://wiki.utopia-game.com/index.php?title=Race "Race") * [Gluttony Mod](http://wiki.utopia-game.com/index.php?title=Mystics#Gluttony "Mystics")`
 :::
 
+:::tip Food Produce
+```
+/Base Food Production     = (([[Farms]]* 60) * [[Building Efficiency]]) + ([[Barren Land]] * 2) + (Race Mod * Acres) + ([[Personality Mod]] * Acres)
+
+/Modified Food Production = Base Food Production * [Production Science Mod] * [Fertile Lands Mod] * [Drought Mod]
+```
+:::
+
 ## Income and Networth
 >**Money** sangat penting di permainan Utopia karena dibutuhkan untuk membangun berbagai bangunan dan tentara. Uang juga digunakan untuk membayar gaji pekerja, pasukan, dan pelayan. Jika kamu tidak memiliki cukup uang, kamu akan kesulitan untuk mempertahankan kerajaanmu.
 

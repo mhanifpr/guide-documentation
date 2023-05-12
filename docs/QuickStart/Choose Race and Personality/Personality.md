@@ -117,3 +117,6 @@ Di Utopia, selain memilih ras, Anda juga akan memilih kepribadian (personality).
     <br/>
     </details>
 
+:::tip Personality Details
+Untuk melihat [**`Personality`**](http://wiki.utopia-game.com/index.php?title=Personality#Comparison_Table "Personality") secara detail dapat dilihat melalui link berikut [**`ini`**](http://wiki.utopia-game.com/index.php?title=Personality#Comparison_Table "Personality") .
+:::

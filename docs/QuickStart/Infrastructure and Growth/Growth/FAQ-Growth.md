@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'FAQ growth'
+sidebar_label: 'FAQ'
 sidebar_position: 3
 ---
 
@@ -162,7 +162,7 @@ Expanding your territory is an important aspect of growing your kingdom's power 
 
 
 ## Commonly used Acronyms and Definitions
-
+```
 > KD = Kingdom
 > BE = Building Efficiency
 > ME = Military Efficiency
@@ -202,3 +202,4 @@ Expanding your territory is an important aspect of growing your kingdom's power 
 > Bounce = A failed attack
 > UB = Unbreakable (referring to defense)
 > Bush = Short for Ambush
+```

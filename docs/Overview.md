@@ -16,10 +16,10 @@ Di dunia Utopia, waktu berjalan jauh lebih cepat dibandingkan dengan waktu di Bu
 Di awal setiap Era, semua orang mulai dari awal dengan provinsi yang baru, memberikan kesempatan pada setiap penguasa dan setiap kerajaan untuk menjadi yang terbaik. Setiap Era berlangsung sekitar 8 hingga 12 tahun Utopia, yang setara dengan 8 hingga 12 minggu di waktu Bumi.
 
 ## Choose [Races and Personality](https://utopia-game.com/wol/chooser/age_details/)
-> Untuk memulai permainan, pemain harus membuat kerajaannya dengan menentukan wilayah yang akan dikuasainya. Pemain juga harus [**memilih ras**](https://www.notion.so/Personality-and-Races-297b7a258880469c808f22dbfdf509da?pvs=4) yang akan dimainkan, yang akan menentukan **karakteristik** khusus dan kemampuan khusus kerajaan.
+> Untuk memulai permainan, pemain harus membuat kerajaannya dengan menentukan wilayah yang akan dikuasainya. Pemain juga harus [**`memilih ras`**](https://www.notion.so/Personality-and-Races-297b7a258880469c808f22dbfdf509da?pvs=4) yang akan dimainkan, yang akan menentukan **karakteristik** khusus dan kemampuan khusus kerajaan.
 
 ## Growth
-> Setelah membuat kerajaannya, pemain harus mengatur **`ekonomi`** dan **`infrastruktur kerajaan`**nya, serta **`membangun pasukan`** dan **`pertahanan`** untuk melindungi kerajaannya dari serangan musuh. Pemain juga harus **`memperluas wilayah`**nya  dengan menaklukkan kerajaan lain atau melakukan persekutuan dengan kerajaan lain untuk saling membantu.
+> Setelah membuat kerajaannya, pemain harus mengatur [**`ekonomi`**](./QuickStart/Infrastructure%20and%20Growth/Growth/FAQ-Growth.md) dan **`infrastruktur kerajaan`**nya, serta **`membangun pasukan`** dan **`pertahanan`** untuk melindungi kerajaannya dari serangan musuh. Pemain juga harus **`memperluas wilayah`**nya  dengan menaklukkan kerajaan lain atau melakukan persekutuan dengan kerajaan lain untuk saling membantu.
 
 Selama bermain, pemain akan mendapatkan poin pengalaman dan kemampuan untuk meningkatkan kekuatan kerajaannya dan membuatnya lebih efisien dalam menghasilkan sumber daya dan mengelola pertahanannya.
 

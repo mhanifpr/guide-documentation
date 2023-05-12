@@ -113,6 +113,9 @@ Gnome adalah ras kecil yang cerdas dan terampil dalam hal teknologi dan pengebor
     <br/>
     </details>
 
+:::info Races Details
+Memilih kepribadian di Utopia-game adalah hal yang penting, karena kepribadian akan memengaruhi cara bermain dan strategi yang dipilih. Pilihlah Ras yang sesuai dengan gaya bermain dan tujuanmu di dalam game. Untuk melihat [**`Races`**](http://wiki.utopia-game.com/index.php?title=Race) secara detail dapat dilihat melalui link berikut [**`ini`**](http://wiki.utopia-game.com/index.php?title=Race) .
+:::
 
 :::tip
 

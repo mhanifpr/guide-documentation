@@ -117,6 +117,11 @@ Di Utopia, selain memilih ras, Anda juga akan memilih kepribadian (personality).
     <br/>
     </details>
 
-:::tip Personality Details
+:::info Personality Details
 Memilih kepribadian di Utopia-game adalah hal yang penting, karena kepribadian akan memengaruhi cara bermain dan strategi yang dipilih. Pilihlah kepribadian yang sesuai dengan gaya bermain dan tujuanmu di dalam game. Untuk melihat [**`Personality`**](http://wiki.utopia-game.com/index.php?title=Personality#Comparison_Table "Personality") secara detail dapat dilihat melalui link berikut [**`ini`**](http://wiki.utopia-game.com/index.php?title=Personality#Comparison_Table "Personality") .
+:::
+
+:::tip
+
+Dalam memilih Kepribadian untuk Kerajaan Anda, penting untuk mempertimbangkan [**`gaya permainan dan strategi`**](./MostCommonComb.md) Anda. Apakah Anda lebih suka menyerang secara agresif atau mempertahankan tanah Anda? Apakah Anda lebih fokus pada sihir atau ilmu pengetahuan? Dengan memilih ras yang tepat untuk Kerajaan Anda, Anda dapat memaksimalkan kekuatan Anda dan meminimalkan kelemahan Anda, menciptakan kekuatan yang tangguh di Utopia.
 :::

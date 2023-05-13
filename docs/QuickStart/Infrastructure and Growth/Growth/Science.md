@@ -70,7 +70,6 @@ Cunning|Increase Thievery Operation Damage|0.0314|Ilmuwan juga dapat menemukan m
 Finesse|Reduced Wizards and Thieves lost on Failed Spells and Operation|0.0478|Pengecoran ritual untuk Kerajaan adalah usaha yang mahal. Studi tentang Doa meningkatkan efisiensi penyihir saat merapalkan mantra ritual, memungkinkan untuk menggunakan rune jauh lebih sedikit dalam upaya tersebut.
 
 
-![[Screen Shot 2023-03-15 at 14.36.13.png|600]]
 
 ---
 

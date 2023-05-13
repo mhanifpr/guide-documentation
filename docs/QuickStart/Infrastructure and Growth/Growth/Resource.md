@@ -29,9 +29,9 @@ Jika suatu provinsi tidak memiliki _`Food`_, maka provinsi tersebut akan mengala
 :::
 
 ## Income and Networth
->**Money** sangat penting di permainan Utopia karena dibutuhkan untuk membangun berbagai bangunan dan tentara. Uang juga digunakan untuk membayar gaji pekerja, pasukan, dan pelayan. Jika kamu tidak memiliki cukup uang, kamu akan kesulitan untuk mempertahankan kerajaanmu.
+>**`Money`** sangat penting di permainan Utopia karena dibutuhkan untuk membangun berbagai bangunan dan tentara. Uang juga digunakan untuk membayar gaji pekerja, pasukan, dan pelayan. Jika kamu tidak memiliki cukup uang, kamu akan kesulitan untuk mempertahankan kerajaanmu.
 
->**Networth** dalam permainan Utopia adalah sebuah metrik yang mengukur kemakmuran suatu pemain dalam permainan. Itu dihitung dari total nilai semua aset yang dimiliki oleh pemain di provinsi mereka, termasuk pasukan, bangunan, dan sumber daya.
+>**`Networth`** dalam permainan Utopia adalah sebuah metrik yang mengukur kemakmuran suatu pemain dalam permainan. Itu dihitung dari total nilai semua aset yang dimiliki oleh pemain di provinsi mereka, termasuk pasukan, bangunan, dan sumber daya.
 
 --- 
 
@@ -50,3 +50,22 @@ Jika suatu provinsi tidak memiliki _`Food`_, maka provinsi tersebut akan mengala
 /Total Networth =  (Peasants* 0.25) + (Soldiers * Soldier NW) + (Off Specs * Offspec NW) + (Def Specs * Defspec NW) + (Elites * Elite NW) + (Money / 1000) + (Horses * Off value * 0.3) + (Prisoners * Off value * 0.2) + (Thieves * 5) + (Wizards * 5) + (Books * 0.000007 * Acres) + (Barren Land * 40) + (Buildings * 60) + (Buildings in Progress * 50)
 ```
 :::
+
+## Runes
+Runes adalah Sumber Daya utama untuk melakukan Spell Cast.
+
+ 
+:::info Obtaining Runes
+bangunan _`Towers`_ dapat memproduksi Runes tiap 1 hari dalam Utopia
+
+:::caution
+Runes juga dapat diambil oleh musuh, via:
+> - [_`Plunder Attack`_](http://wiki.utopia-game.com/index.php?title=Military#Plunder) 
+> - [Thief Ops](http://wiki.utopia-game.com/index.php?title=Thievery#Rob_the_Towers)
+:::
+
+### Decay and Destruction
+Setelah setiap _`tick`_, 1,2% dari total rune yang disimpan akan membusuk.
+
+Pasokan rune provinsi musuh dapat diserang melalui Mantra Serangan Petir. Serangan ini tidak akan memberikan rune yang hancur kepadamu.
+

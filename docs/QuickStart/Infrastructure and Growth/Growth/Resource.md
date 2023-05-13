@@ -60,9 +60,8 @@ bangunan _`Towers`_ dapat memproduksi Runes tiap 1 hari dalam Utopia
 
 :::caution
 Runes juga dapat diambil oleh musuh, via:
-> - [_`Plunder Attack`_](http://wiki.utopia-game.com/index.php?title=Military#Plunder) 
-> - [_`Thief Ops`_](http://wiki.utopia-game.com/index.php?title=Thievery#Rob_the_Towers)
-
+ - [_`Plunder Attack`_](http://wiki.utopia-game.com/index.php?title=Military#Plunder) 
+ - [_`Thief Ops`_](http://wiki.utopia-game.com/index.php?title=Thievery#Rob_the_Towers)
 
 :::
 

@@ -6,11 +6,18 @@ Food sangat penting untuk pertumbuhan kota dan pasukan Anda di Utopia. Anda meme
 :::caution Food Decayed
 Dalam kondisi normal, sekitar 0,99 atau sekitar 1% dari total stok makanan akan _`rusak`_. Jumlah yang tepat tergantung pada pengubah dalam rumus yang telah diberikan di atas dan dihitung berdasarkan total makanan yang disimpan di provinsi. Jadi jika sebuah provinsi memiliki 300.000 gantang makanan dalam stok dalam kondisi normal, maka penurunan yang diharapkan sedikit lebih atau kurang dari 3000 gantang per tick / hari Utopia. Terkadang, jumlah makanan yang rusak bisa lebih tinggi daripada yang tersisa setelah makanan yang dibutuhkan oleh populasi dikonsumsi dari hasil pertanian.
 :::
-
-### Formula Food
 :::caution Food Consume
 Jika suatu provinsi tidak memiliki _`Food`_, maka provinsi tersebut akan mengalami kelaparan. Ketika provinsi mengalami kelaparan, jumlah populasi di dalamnya (petani, pasukan militer, dan pencuri) akan berkurang seiring dengan besarnya kekurangan makanan (termasuk pasukan yang sedang berada di luar provinsi). Namun, para penyihir tidak akan terpengaruh oleh kondisi kelaparan. Tingkat kematian akibat kelaparan ini dibatasi maksimal 5% dan akan berlanjut sampai nilai makanan di provinsi tersebut lebih besar dari 0.
-`/Bushels Eaten = Total Population * 0.25 * [Race Mod](http://wiki.utopia-game.com/index.php?title=Race "Race") * [Gluttony Mod](http://wiki.utopia-game.com/index.php?title=Mystics#Gluttony "Mystics")`
+:::
+
+----
+
+### Formula Food
+
+:::tip Food Consume
+```
+/Bushels Eaten = Total Population * 0.25 * [Race Mod] * [Gluttony Mod]
+```
 :::
 
 :::tip Food Produce
@@ -34,7 +41,7 @@ Jika suatu provinsi tidak memiliki _`Food`_, maka provinsi tersebut akan mengala
 ```
 /Raw Income = (3 * Employed Peasants) + (1 * Unemployed Peasants) + (0.75 * Prisoners) + Racial Gold Generation + ([[Banks]] * 25 * [[buildings efficiency]]) + Miner's Mystique Gold Generation`
 
-/Modified Income = Raw Income  * * [Plague](http://wiki.utopia-game.com/index.php?title=The_Plague "The Plague")  * * [Riots](http://wiki.utopia-game.com/index.php?title=Thievery#Incite_Riots "Thievery") * * Bank % Bonus * * Income Sci * * [Honor Income Mod](http://wiki.utopia-game.com/index.php?title=Honor#Effects "Honor") * * Race Mod * * Personality Mod * * Dragon* * Ritual`
+/Modified Income = Raw Income  *  [Plague] * [Riots] * Bank% Bonus  * Income Sci * * [Honor Income Mod] * Race Mod * * Personality Mod * * Dragon* * Ritual
 ```
 :::
 

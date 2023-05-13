@@ -81,10 +81,14 @@ Finesse|Reduced Wizards and Thieves lost on Failed Spells and Operation|0.0478|P
 :::
 
 :::tip Scientist Spawn Rate Formula
-/Scientists Spawn Rate = 2 * [Race](http://wiki.utopia-game.com/index.php?title=Race "Race") Mod * [Universities Effect](http://wiki.utopia-game.com/index.php?title=Exploring,_Construction_%26_Building_Formulas#Effects_of_Buildings "Exploring, Construction & Building Formulas") * [Revelation](http://wiki.utopia-game.com/index.php?title=Mystics#Revelation "Mystics") Mod 
+```
+/Scientists Spawn Rate = 2 * Race Mod * [Universities Effect] * [Revelation] Mod 
+```
 :::
 
 :::tip Science Network
+```
 /Science Network = Books are worth 0.000006 * Current Land points.
+```
 :::
 

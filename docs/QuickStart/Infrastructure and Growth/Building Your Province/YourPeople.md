@@ -1,3 +1,4 @@
+# People
 
 ### Populasi
 Sebagai pemimpin kami yang terhormat,  Anda harus  menemukan keseimbangan yang tepat antara ekonomi dan militer kami. Terlalu sedikit pasukan, dan kita mungkin mendapati diri kita terlalu terbuka terhadap ancaman luar dari musuh kita. Pasukan terlalu besar, dan petani kita akan berjuang untuk menghasilkan pendapatan yang dibutuhkan untuk membayar mereka.

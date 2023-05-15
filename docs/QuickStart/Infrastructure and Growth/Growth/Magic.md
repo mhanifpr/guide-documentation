@@ -13,11 +13,11 @@
 
 ### Duration of Spell
 
-::: caution Affected by
->- Durasi nominal sihir tertentu, yang berbeda untuk setiap sihir.
->- Persentase guild yang dimiliki provinsi casting, tanpa efek tambahan untuk jumlah di atas 20%.
->- Networth relatif dari kedua provinsi.
->-Hubungan saat ini antara kerajaan kedua provinsi tersebut.
+:::caution Affected by
+- Durasi nominal sihir tertentu, yang berbeda untuk setiap sihir.
+- Persentase guild yang dimiliki provinsi casting, tanpa efek tambahan untuk jumlah di atas 20%.
+- Networth relatif dari kedua provinsi.
+- Hubungan saat ini antara kerajaan kedua provinsi tersebut.
 :::
 
 ### Self Spell

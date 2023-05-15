@@ -8,6 +8,12 @@ sidebar_position: 2
 Di Utopia, selain memilih ras, Anda juga akan memilih kepribadian (personality). Penguasa Utopia memiliki berbagai macam kepribadian yang dapat dipilih. Meskipun tidak ada kombinasi yang "terbaik", disarankan bagi para penguasa baru untuk memilih ras dan kepribadian yang memiliki kekuatan inti yang serupa untuk dibangun
 
 ### Personality List
+No. | Personality Name| Description| Gelar
+---|---|---|---
+1| The Cleric| Clerik membantu pasukan mereka di medan perang dengan menyembuhkan prajurit yang terluka untuk mengurangi jumlah korban keseluruhan. Mereka mendukung rekan mereka dengan berkat magis.| [NamaPenguasa] yang Diberkati
+2| The Heretic| Heretik melanggar norma-norma fundamental dan tidak peduli. Mereka senang menentang keyakinan dan doktrin ajaran yang diterima| [NamaPenguasa] si Skeptis
+
+
 
 <details>
   <summary>The Cleric</summary>

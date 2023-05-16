@@ -12,10 +12,7 @@ Berikut adalah beberapa  [**`bangunan`**](https://www.notion.so/2bdab2ed52c04b72
 
 No.| Buildings Name| Description| Buildings Effect
 ---|----------------|--------|-------
-1.| Armouries |tempat dimana senjata dan peralatan militer disimpan dan dikelola. Ini biasanya digunakan oleh pasukan atau angkatan bersenjata untuk memastikan bahwa mereka memiliki persenjataan yang dibutuhkan saat diperlukan.| (Percent-Based effect) 
--   Decreases Draft Costs by % * 2
--   Decreases Daily Wages by % * 2
--   Decreases Military Training Costs by % * 1.5
+1.| Armouries |tempat dimana senjata dan peralatan militer disimpan dan dikelola. Ini biasanya digunakan oleh pasukan atau angkatan bersenjata untuk memastikan bahwa mereka memiliki persenjataan yang dibutuhkan saat diperlukan.| -   Decreases Draft Costs by % * 2 -   Decreases Daily Wages by % * 2 -   Decreases Military Training Costs by % * 1.5
 <!-- 2.|Banks | 
 3.|Barren Land|
 4.| Dungeons| 

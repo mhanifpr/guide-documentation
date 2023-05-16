@@ -2,7 +2,9 @@
 
 Hai! Utopia adalah sebuah game online yang menantang di mana kamu bisa membangun provinsimu sendiri. Salah satu elemen penting di dalam game ini adalah bangunan-bangunan.
 
->Bangunan-bangunan ini sangatlah penting karena mereka memberikan berbagai manfaat bagi kerajaanmu, seperti meningkatkan produksi sumber daya, meningkatkan pertahanan militer, dan bahkan meningkatkan kemampuan sihir.
+:::danger Important
+Bangunan-bangunan ini sangatlah penting karena mereka memberikan berbagai manfaat bagi kerajaanmu, seperti **`meningkatkan produksi sumber daya`**, **`meningkatkan pertahanan militer`**, dan bahkan **`meningkatkan kemampuan sihir`**.
+:::
 
 ---
 
@@ -20,17 +22,17 @@ No.| Buildings Name| Description| Buildings Effect
 6.|Forts|Forts memberikan perlindungan superior kepada pasukan yang diadakan di garnisun di provinsi Anda, meningkatkan kekuatan pertahanan Anda secara keseluruhan terhadap serangan. Mempertahankan pertahanan yang baik adalah penting jika Anda ingin menjaga hektar dan sumber daya Anda aman.| _`Increases Defensive Military Efficiency by % * 1.5`_ (Percent-Based Effect)
 7.|Guard Station|Guard Station memiliki manfaat dalam melindungi Resource dan networth Anda dari serangan musuh. Ketika terjadi serangan, Guard Station akan mengurangi kerugian yang mungkin terjadi pada Land dan Resource sebesar 1,5 kali persen. Selain itu, Guard Station juga dapat melindungi 1,5 kali persen Science Anda dari serangan musuh.|  _`Decreases Land and Resource Losses when Attacked by % * 1.5`_ - _`Protect % * 1.5 of Science from Enemies`_ (Percent-Based Effect) 
 8.|Guilds|Guild juga dapat membantu meningkatkan hubungan dan kerja sama antara para Wizard dan Mage. Sebagai Mage, Anda harus memperhatikan Guild dan memastikan bahwa Wizard Anda dilatih dengan baik dan memiliki akses ke Resources yang cukup untuk memenuhi kebutuhan mereka.|   _`Trains 0.02 Wizards Daily (2% chance to train a Wizard per Guild)`_ -_`Unaffected by BE (Buildings Efficiency)`_ (Flat Rate Base Effect)
-9.|Homes|Meskipun setiap acre Land yang dibangun sudah dihuni oleh orang-orang - yang berarti Homes bukan kebutuhan penting bagi sebuah Province - namun Anda mungkin ingin mendapatkan lebih banyak Population. Rumah memberikan warga negara Anda tempat tinggal yang lebih banyak dan juga meningkatkan [[Birth Rate]] alami. Selain itu, Rumah tidak mempekerjakan Farmer dan dengan demikian secara keseluruhan akan membantu Anda mengisi semua Jobs di provinsi Anda.| - _`Increases your maximum population by 10 (on top of the 25 that a built building provides, for a total of 35)`_ - _`Increase Birth Rates by % * 4`_ -   _`Employs no one `_ (Capacity Building dan Flat Rate Base Effect) 
+9.|Homes|Meskipun setiap acre Land yang dibangun sudah dihuni oleh orang-orang - yang berarti Homes bukan kebutuhan penting bagi sebuah Province - namun Anda mungkin ingin mendapatkan lebih banyak Population. Rumah memberikan warga negara Anda tempat tinggal yang lebih banyak dan juga meningkatkan [**Birth Rate**] alami. Selain itu, Rumah tidak mempekerjakan Farmer dan dengan demikian secara keseluruhan akan membantu Anda mengisi semua [**`Jobs`**](./Employment.md) di provinsi Anda.| - _`Increases your maximum population by 10 (on top of the 25 that a built building provides, for a total of 35)`_ - _`Increase Birth Rates by % * 4`_ -   _`Employs no one `_ (Capacity Building dan Flat Rate Base Effect) 
 10.|Hospitals| Rumah sakit militer memberikan tempat bagi pasukan Anda untuk mendapatkan perawatan medis. Mereka dilengkapi dengan peralatan medis seperti obat-obatan, peralatan bedah, dan peralatan diagnostik. Dokter dan perawat akan bekerja keras untuk merawat pasukan yang terluka, sehingga mereka bisa segera kembali ke medan perang. Selain itu, rumah sakit militer juga memberikan perawatan untuk pasukan yang sakit, sehingga mereka bisa pulih dengan cepat.| -    _`% * 3 Daily Chance of Curing the`_ [_`Plague`_](http://wiki.utopia-game.com/index.php?title=The_Plague "The Plague") -   _`Decreases Military Losses by % * 3`_ (Percent-Based Effect)
-11.| Library
-12.| Military Barracks
-13.| Mills
-14.| Stables
-15.|Thieves Dens
-16.|Towers
-17.|Training grounds
-18.|University
-19.|Watch Towers 
+11.| Library|Library dapat meningkatkan Science Efficiency di dalam game. Artinya, dengan membangun Library, kemajuan teknologi Anda akan menjadi lebih cepat. Setiap peningkatan Science Efficiency sebesar 1,25% akan diberikan kepada Anda ketika Anda membangun sebuah Library.| -  _`% * 1.25 Higher Science Efficiency`_ (Percent-Based Effect)
+12.| Military Barracks|bangunan yang terkait dengan militer. [**`Employee`**](./Employment.md) di barak militer bertanggung jawab atas logistik militer Anda. Dengan memiliki barak militer yang baik, pasukan Anda dapat bergerak lebih cepat dan mencapai daerah musuh dengan lebih efisien. Dengan begitu, risiko terkena serangan saat pasukan Anda sedang menjalankan misi akan semakin kecil.|  _`Lowers Attack Time by % * 1.5 `_ (Percent-Based Effect)
+13.| Mills| Dengan membangun [Mills] atau pabrik, [**`biaya konstruksi bangunan`**](./Constructions.md) akan berkurang sebesar persentase tertentu, dan semakin besar pabrik yang Anda miliki, semakin besar pula pengurangan biaya tersebut. Pabrik juga dapat membantu dalam mengurangi [biaya pengeluaran emas] dan [**`Soldier`**](./Units.md) yang dikeluarkan saat melakukan **Explore**. Selain itu, pabrik juga akan meningkatkan keterampilan para pekerja Anda, sehingga konstruksi bangunan akan sedikit lebih murah.|-   _`Decreases Building Costs by % * 4 (Max of 100%)`_ -   _`Reduces exploration gold expenses by % * 3`_ -   _`Reduces exploration soldier cost by % * 2 `_(Percent-Based Effect)
+14.| Stables| Stable (kandang) merupakan gedung yang penting dalam hal militer di Utopia. [**`Horses`**](./Units.md) adalah kendaraan yang sangat berguna dalam pertempuran dan pengiriman pasukan, dan dengan membangun kandang, Anda dapat melatih lebih banyak kuda untuk digunakan dalam pertempuran.|   _`Produces 2 Horses Per Da`_y -   _`Holds 80 Horses`_ (Capacity Building dan Flat Rate Base Effect)
+15.|Thieves Dens| Thieves Dens atau [sarang pencuri] adalah tempat para pencuri di provinsi Anda berlatih dan melakukan keahlian mereka. Sarang pencuri akan meningkatkan tingkat keberhasilan [**Thieves Operation**] yang Anda lakukan serta menurunkan kerugian yang dialami oleh para pencuri. Sarang pencuri sangat penting untuk para [**`Thief`**](./Units.md) |   _`Lowers Losses in Thievery Operations by % * 4 (capped at 95%)`_ -   _`Increases Thievery Effectiveness by % * 3`_ (Percent-Based Effect)
+16.|Towers| Menara/Tower adalah bangunan besar yang digunakan untuk mengarahkan energi mistis yang dihasilkan oleh Bumi ke dalam batu kecil yang disebut [Runes]. [Runes] kemudian digunakan oleh para [Wizard](./Units.md) Anda saat melakukan pesona sihir. | Produces 12 [Runes] Per Day (Flat Rate Base Effect) 
+17.|Training grounds|Training Grounds adalah bangunan yang digunakan untuk melatih [army] militer Anda agar menjadi lebih efektif dan efisien dalam pertempuran. Ini membantu meningkatkan [Offensive Military Efficiency] Anda dan memungkinkan pasukan Anda untuk melawan lebih efektif di medan perang. Selain itu, dengan memiliki Training Grounds, [cost] yang Anda keluarkan untuk menyewa [[pasukan bayaran]] juga akan berkurang.  |    _`Increases Offensive Military Efficiency by % * 1.5`_-   _`Reduced Mercenary costs by % * 2`_ (Percent-Based Effect) 
+18.|University|University adalah gedung yang sangat penting untuk pertumbuhan sains dan penelitian di Utopia. Dalam universitas, para sarjana mengumpulkan dan menganalisis pengetahuan, menciptakan ilmu baru dan teknologi baru. Income Anda dari Universitas sangat tergantung pada jumlah sarjana di provinsi Anda.|    _`Increase spawn rate of new scientists by % * 2`_ -  _`% * 1 Higher Generation of Science Books`_ -   _`Not affected by Building Efficiency`_ (Percent-Based Effect)
+19.|Watch Towers|Sementara para pencuri Anda sendiri dapat melindungi tanah Anda dari para pencuri musuh, sedikit perlindungan ekstra tidak pernah merugikan. Orang-orang yang ditempatkan di [**Watch Towers**] akan menyaring perbatasan Anda dan dapat menangkap pencuri yang mencoba melakukan operasi di provinsi Anda.|    _`% * 1.5 Chance of Catching Enemy Thieves`_ - _`Reduces damage caused by Enemy Thieves by % * 2.5`_ (Percent Base Effect)
 
 >Dengan membangun dan mengelola bangunan-bangunan ini dengan bijak, kamu dapat membangun kerajaan yang sukses dan kuat di Utopia. Selamat mencoba dan jangan lupa untuk bermain dengan cerdas dan bijak!
 
@@ -336,7 +338,6 @@ jobs               : 25
   <summary>Thieves Dens</summary>
   <div>
 <div>
-Thieves Dens atau [[sarang pencuri]] adalah tempat para pencuri di provinsi Anda berlatih dan melakukan keahlian mereka. Sarang pencuri akan meningkatkan tingkat keberhasilan [[Thieves Operation]] yang Anda lakukan serta menurunkan kerugian yang dialami oleh para pencuri. Sarang pencuri sangat penting untuk para [Thief]
 <hr/>
 percentBaseEffect. : 4% Lowers Losses in Thievery Operations, 3% Increases Thievery Effectiveness
 <br/>
@@ -356,7 +357,6 @@ jobs               : 25
   <summary>Tower</summary>
   <div>
 <div>
-Menara/Tower adalah bangunan besar yang digunakan untuk mengarahkan energi mistis yang dihasilkan oleh Bumi ke dalam batu kecil yang disebut [[Runes]]. [[Runes]] kemudian digunakan oleh para [Wizard] Anda saat melakukan pesona sihir.
 <hr/>
 Flat Rate Base     : 2 Runes
 <br/>
@@ -374,7 +374,6 @@ jobs               : 25
   <summary>Training Grounds</summary>
   <div>
 <div>
-Training Grounds adalah bangunan yang digunakan untuk melatih [[army]] militer Anda agar menjadi lebih efektif dan efisien dalam pertempuran. Ini membantu meningkatkan [[Offensive Military Efficiency]] Anda dan memungkinkan pasukan Anda untuk melawan lebih efektif di medan perang. Selain itu, dengan memiliki Training Grounds, [[cost]] yang Anda keluarkan untuk menyewa [[pasukan bayaran]] juga akan berkurang.
 <hr/>
 percentBaseEffect. : 1.5% Increases Offensive Military Efficiency, 2% Reduced Mercenary costs
 <br/>
@@ -394,7 +393,6 @@ jobs               : 25
   <summary>University</summary>
   <div>
 <div>
-University adalah gedung yang sangat penting untuk pertumbuhan sains dan penelitian di Utopia. Dalam universitas, para sarjana mengumpulkan dan menganalisis pengetahuan, menciptakan ilmu baru dan teknologi baru. Income Anda dari Universitas sangat tergantung pada jumlah sarjana di provinsi Anda.
 <hr/>
 percentBaseEffect. : 2% Increase spawn rate of new scientists, 1% Higher Generation of Science Books
 <br/>

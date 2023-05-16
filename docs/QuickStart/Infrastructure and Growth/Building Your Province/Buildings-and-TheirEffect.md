@@ -36,10 +36,15 @@ No.| Buildings Name| Description| Buildings Effect
 
 >Dengan membangun dan mengelola bangunan-bangunan ini dengan bijak, kamu dapat membangun kerajaan yang sukses dan kuat di Utopia. Selamat mencoba dan jangan lupa untuk bermain dengan cerdas dan bijak!
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 -----
-
-
-
 
 
 ### Buildings Effect
@@ -384,6 +389,7 @@ jobs               : 25
 ```
 /Optimal Workers = _ROUNDDOWN_ ( Total Jobs * 0.67 )
 ```
+
 ```
 /% Jobs Performed =  _MIN_ ( Available Workers / Optimal Workers,1 )
 ```

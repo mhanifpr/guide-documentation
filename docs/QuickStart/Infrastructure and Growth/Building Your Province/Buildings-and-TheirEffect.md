@@ -12,8 +12,8 @@ Berikut adalah beberapa  [**`bangunan`**](https://www.notion.so/2bdab2ed52c04b72
 
 No.| Buildings Name| Description| Buildings Effect
 ---|----------------|--------|-------
-1.| Armouries |tempat dimana senjata dan peralatan militer disimpan dan dikelola. Ini biasanya digunakan oleh pasukan atau angkatan bersenjata untuk memastikan bahwa mereka memiliki persenjataan yang dibutuhkan saat diperlukan.| -   Decreases Draft Costs by % * 2 -   Decreases Daily Wages by % * 2 -   Decreases Military Training Costs by % * 1.5
-<!-- 2.|Banks | 
+1.| Armouries |tempat dimana senjata dan peralatan militer disimpan dan dikelola. Ini biasanya digunakan oleh pasukan atau angkatan bersenjata untuk memastikan bahwa mereka memiliki persenjataan yang dibutuhkan saat diperlukan.| -   `Decreases Draft Costs by % * `2 -   `Decreases Daily Wages by % * 2` -   `Decreases Military Training Costs by % * 1.5` (Percent-Based effect)
+2.|Banks | 
 3.|Barren Land|
 4.| Dungeons| 
 5.|Farms| 
@@ -30,7 +30,7 @@ No.| Buildings Name| Description| Buildings Effect
 16.|Towers
 17.|Training grounds
 18.|University
-19.|Watch Towers -->
+19.|Watch Towers 
 
 >Dengan membangun dan mengelola bangunan-bangunan ini dengan bijak, kamu dapat membangun kerajaan yang sukses dan kuat di Utopia. Selamat mencoba dan jangan lupa untuk bermain dengan cerdas dan bijak!
 

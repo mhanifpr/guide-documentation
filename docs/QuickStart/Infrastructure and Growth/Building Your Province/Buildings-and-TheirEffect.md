@@ -10,22 +10,38 @@ Hai! Utopia adalah sebuah game online yang menantang di mana kamu bisa membangun
 
 Berikut adalah beberapa  [**`bangunan`**](https://www.notion.so/2bdab2ed52c04b72a15c0ac90895753b?v=1b8983ca18b1412a9015b56010d8b44e&pvs=4) di Utopia:
 
-No.| Buildings Name| No.| Buildings Name
----|----------------|---|----------------
-1.| Armouries |11.| Library
-2.|Banks |12.| Military Barracks
-3.|Barren Land| 13.| Mills
-4.| Dungeons| 14.| Stables
-5.|Farms| 15.|Thieves Dens
-6.|Forts|16.|Towers
-7.|Guard Station|17.|Training grounds
-8.|Guilds|18.|University
-9.|Homes|19.|Watch Towers
+No.| Buildings Name| Description| Buildings Effect
+---|----------------|--------|-------
+1.| Armouries |tempat dimana senjata dan peralatan militer disimpan dan dikelola. Ini biasanya digunakan oleh pasukan atau angkatan bersenjata untuk memastikan bahwa mereka memiliki persenjataan yang dibutuhkan saat diperlukan.| (Percent-Based effect) 
+-   Decreases Draft Costs by % * 2
+-   Decreases Daily Wages by % * 2
+-   Decreases Military Training Costs by % * 1.5
+<!-- 2.|Banks | 
+3.|Barren Land|
+4.| Dungeons| 
+5.|Farms| 
+6.|Forts|
+7.|Guard Station|
+8.|Guilds|
+9.|Homes|
 10.|Hospitals|
+11.| Library
+12.| Military Barracks
+13.| Mills
+14.| Stables
+15.|Thieves Dens
+16.|Towers
+17.|Training grounds
+18.|University
+19.|Watch Towers -->
 
 >Dengan membangun dan mengelola bangunan-bangunan ini dengan bijak, kamu dapat membangun kerajaan yang sukses dan kuat di Utopia. Selamat mencoba dan jangan lupa untuk bermain dengan cerdas dan bijak!
 
 -----
+
+
+
+
 
 ### Buildings Effect
 

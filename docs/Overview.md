@@ -27,12 +27,12 @@ Di awal setiap Era, semua orang mulai dari awal dengan provinsi yang baru, membe
 ## How To Play
 
 ### Choose [Races and Personality](https://utopia-game.com/wol/chooser/age_details/)
-:::tip
+:::tip Steps
  Untuk memulai permainan, pemain harus membuat kerajaannya dengan menentukan wilayah yang akan dikuasainya. Pemain juga harus [**`memilih ras`**](https://www.notion.so/Personality-and-Races-297b7a258880469c808f22dbfdf509da?pvs=4) yang akan dimainkan, yang akan menentukan **karakteristik** khusus dan kemampuan khusus kerajaan.
 :::
 
 ### Growth
-:::tip
+:::tip Steps
 Setelah membuat kerajaannya, pemain harus mengatur [**`ekonomi`**](./QuickStart/Infrastructure%20and%20Growth/Growth/FAQ-Growth.md) dan [**`infrastruktur kerajaan`**](./QuickStart/Infrastructure%20and%20Growth/Building%20Your%20Province/Buildings-and-TheirEffect.md)nya, serta [**`membangun pasukan`**](./QuickStart/Infrastructure%20and%20Growth/Growth/Military.md) dan **`pertahanan`** untuk melindungi kerajaannya dari serangan musuh. Pemain juga harus [**`memperluas wilayah`**](./QuickStart/Infrastructure%20and%20Growth/Growth/Explorations.md)nya  dengan menaklukkan kerajaan lain atau melakukan persekutuan dengan kerajaan lain untuk saling membantu.
 :::
 Selama bermain, pemain akan mendapatkan poin pengalaman dan kemampuan untuk meningkatkan kekuatan kerajaannya dan membuatnya lebih efisien dalam menghasilkan sumber daya dan mengelola pertahanannya.

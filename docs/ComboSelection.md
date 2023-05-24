@@ -7,8 +7,16 @@ sidebar_position: 2
 
 Ada dua jenis pemain dalam game ini, ada Pure dan Hybrid.
 
+No.| Type | Description
+1.| Attacker | Setiap pemain yang secara eksklusif menyerang provinsi musuh dikenal sebagai penyerang. Ini dilakukan melalui halaman Ruang Perang, dan memungkinkan penyerang mengambil tanah dan sumber daya lainnya dari provinsi musuh. Menyerang adalah gaya permainan yang paling umum, dan hampir semua ras mampu menyerang secara efektif, dengan kepribadian Warrior dan Tactician paling sering disebut sebagai kepribadian yang berguna untuk menemani pemain menyerang.
+2.|Thief| Seperti yang dimaksud di sini, gaya bermain ini akan lebih baik dikenal sebagai pencuri "murni" atau "pencuri super", karena mereka tidak mampu menyerang, juga umumnya tidak mampu melakukan serangan magis bersama. Satu-satunya keahlian mereka terletak pada operasi pencuri seperti Nightstrike dan Kidnapping. Perlombaan Halfling secara khusus diarahkan pada pencurian, seperti halnya kepribadian Rogue.
+3.|Mage| Mirip dengan gaya Pencuri di atas, pemain yang hanya menggunakan sihir biasanya disebut penyihir "murni" atau "supermage". Demikian juga, mereka tidak menyerang, juga tidak melakukan operasi pencuri di luar pengumpulan intel sederhana, melainkan mengandalkan mantra seperti Fireball, Tornado, dan Meteor Shower. Peri dan Peri adalah penyihir yang hebat, dan kepribadian Mistik adalah pilihan vital dan alami bagi penyihir murni.
+
 ## Pure
 setiap pemain yang hanya menggunakan satu role (Attacker, Thief, atau mage) dikenal sebagai anggota murni seperti: 
+
+
+
 <details>
   <summary>Attacker</summary>
   <div>

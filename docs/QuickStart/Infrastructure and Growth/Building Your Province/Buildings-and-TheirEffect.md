@@ -2,7 +2,7 @@
 
 Hai! Utopia adalah sebuah game online yang menantang di mana kamu bisa membangun provinsimu sendiri. Salah satu elemen penting di dalam game ini adalah bangunan-bangunan.
 
-:::danger Important
+:::note Important
 Bangunan-bangunan ini sangatlah penting karena mereka memberikan berbagai manfaat bagi kerajaanmu, seperti **`meningkatkan produksi sumber daya`**, **`meningkatkan pertahanan militer`**, dan bahkan **`meningkatkan kemampuan sihir`**.
 :::
 
